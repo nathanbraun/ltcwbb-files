@@ -1,0 +1,101 @@
+g_id,home_team,away_team,date,home_final_score,away_final_score,start_time,venue_name,umpire_1B,umpire_2B,umpire_3B,umpire_HP,weather,wind,attendance,elapsed_time,delay,season
+201800050,CIN,WAS,2018-04-01,5,6,4:10 PM,Great American Ball Park,James Hoye,Jeff Kellogg,Quinn Wolcott,Marvin Hudson,"50 degrees, partly cloudy","8 mph, L to R",10355,167,0,2018
+201800073,NYA,TBA,2018-04-03,11,4,4:19 PM,Yankee Stadium,Joe West,Doug Eddings,Marty Foster,Mark Ripperger,"40 degrees, overcast","7 mph, In from CF",46776,209,0,2018
+201800099,COL,ATL,2018-04-06,3,8,3:11 PM,Coors Field,Bill Welke,Tony Randazzo,Lance Barrett,Nic Lentz,"27 degrees, snow","4 mph, R to L",48216,176,61,2018
+201800115,PHI,MIA,2018-04-07,20,1,6:08 PM,Citizens Bank Park,Carlos Torres,Kerwin Danley,Paul Nauert,Scott Barry,"46 degrees, cloudy","5 mph, In from CF",33660,201,0,2018
+201800122,SLN,ARI,2018-04-08,1,4,1:15 PM,Busch Stadium,Rob Drake,Mike Muchlinski,Mike Winters,Tim Timmons,"41 degrees, clear","7 mph, R to L",40468,173,0,2018
+201800128,CLE,KCA,2018-04-08,3,1,1:10 PM,Progressive Field,Lance Barksdale,Roberto Ortiz,Will Little,Ted Barrett,"32 degrees, partly cloudy","10 mph, In from LF",14240,175,0,2018
+201800133,HOU,SDN,2018-04-08,4,1,1:10 PM,Minute Maid Park,Jim Wolf,D.J. Reyburn,Sam Holbrook,Ryan Blakney,"52 degrees, cloudy","1 mph, Calm",37093,145,0,2018
+201800148,TEX,ANA,2018-04-10,1,11,7:08 PM,Globe Life Park in Arlington,Alan Porter,Bill Miller,Angel Hernandez,Todd Tichenor,"71 degrees, clear","7 mph, Out to RF",18697,187,0,2018
+201800177,BAL,TOR,2018-04-11,5,3,7:08 PM,Oriole Park at Camden Yards,Jeff Kellogg,Chris Segal,Marvin Hudson,Quinn Wolcott,"58 degrees, partly cloudy","9 mph, Varies",10399,177,0,2018
+201800193,SEA,OAK,2018-04-13,7,4,7:11 PM,Safeco Field,Kerwin Danley,Paul Nauert,Scott Barry,Carlos Torres,"55 degrees, roof closed","0 mph, Calm",25352,188,0,2018
+201800213,BOS,BAL,2018-04-15,3,1,1:05 PM,Fenway Park,Eric Cooper,Cory Blaser,Stu Scheurwater,Gary Cederstrom,"34 degrees, cloudy","23 mph, In from CF",32489,174,0,2018
+201800253,SEA,HOU,2018-04-18,1,7,7:10 PM,Safeco Field,Tripp Gibson III,Brian Gorman,Sean Barber,Adrian Johnson,"54 degrees, roof closed","2 mph, Out to CF",14643,165,0,2018
+201800310,TEX,SEA,2018-04-22,7,4,2:08 PM,Globe Life Park in Arlington,Stu Scheurwater,Eric Cooper,Gary Cederstrom,Jansen Visconti,"65 degrees, partly cloudy","15 mph, Out to CF",33661,175,0,2018
+201800402,ANA,NYA,2018-04-29,1,2,5:08 PM,Angel Stadium of Anaheim,Todd Tichenor,Alan Porter,Bill Miller,Angel Hernandez,"69 degrees, partly cloudy","8 mph, Out to CF",44593,180,0,2018
+201800465,NYA,CLE,2018-05-04,7,6,7:08 PM,Yankee Stadium,Tony Randazzo,Lance Barrett,Lance Barksdale,Tim Timmons,"79 degrees, partly cloudy","9 mph, In from RF",46869,202,0,2018
+201800498,ARI,HOU,2018-05-06,3,1,1:10 PM,Chase Field,Brian Gorman,Dan Iassogna,Mike DiMuro,Roberto Ortiz,"73 degrees, roof closed","0 mph, None",35632,175,0,2018
+201800524,CHA,PIT,2018-05-08,6,10,7:10 PM,Guaranteed Rate Field,John Tumpane,Mark Wegner,Ben May,Jim Reynolds,"72 degrees, partly cloudy","10 mph, L to R",12871,233,0,2018
+201800534,OAK,HOU,2018-05-09,1,4,12:37 PM,Oakland Coliseum,Mark Ripperger,Joe West,Doug Eddings,Marty Foster,"65 degrees, partly cloudy","13 mph, Out to RF",18044,163,0,2018
+201800547,ANA,MIN,2018-05-10,7,4,7:08 PM,Angel Stadium of Anaheim,Hunter Wendelstedt,Chris Guccione,David Rackley,Larry Vanover,"68 degrees, clear","8 mph, Out to LF",30127,188,0,2018
+201800578,BAL,TBA,2018-05-12,6,3,3:07 PM,Oriole Park at Camden Yards,Shane Livensparger,Mark Carlson,Brian Knight,Gerry Davis,"79 degrees, partly cloudy","1 mph, Out to CF",1,147,0,2018
+201800583,TOR,BOS,2018-05-13,3,5,1:08 PM,Rogers Centre,Gabe Morales,Ed Hickox,Ron Kulpa,Jerry Meals,"59 degrees, sunny","15 mph, R to L",37888,222,0,2018
+201800751,OAK,ARI,2018-05-26,3,0,1:07 PM,Oakland Coliseum,Alfonso Marquez,Sam Holbrook,Jim Wolf,Ryan Blakney,"61 degrees, overcast","8 mph, Out to RF",17580,135,0,2018
+201800755,COL,CIN,2018-05-26,5,6,7:12 PM,Coors Field,Dan Bellino,Tom Hallion,Adam Hamari,Bruce Dreckman,"85 degrees, partly cloudy","2 mph, L to R",42844,180,0,2018
+201800764,MIA,WAS,2018-05-26,1,4,4:10 PM,Marlins Park,Ramon De Jesus,Larry Vanover,Hunter Wendelstedt,Angel Hernandez,"73 degrees, roof closed","0 mph, None",11646,176,0,2018
+201800780,DET,ANA,2018-05-28,9,3,1:11 PM,Comerica Park,Greg Gibson,Doug Eddings,Marty Foster,Mark Ripperger,"86 degrees, sunny","4 mph, In from CF",20857,197,0,2018
+201800783,ARI,CIN,2018-05-28,12,5,1:10 PM,Chase Field,Chris Conroy,Brian O'Nora,Fieldin Culbreth,CB Bucknor,"75 degrees, roof closed","0 mph, None",29924,199,0,2018
+201800798,PIT,CHN,2018-05-29,6,8,7:06 PM,PNC Park,Pat Hoberg,Gerry Davis,Bill Welke,Mark Carlson,"87 degrees, clear","7 mph, In from RF",11475,183,0,2018
+201800802,KCA,MIN,2018-05-29,2,1,7:39 PM,Kauffman Stadium,Brian Knight,Dan Bellino,Tom Hallion,Adam Hamari,"77 degrees, cloudy","9 mph, L to R",20533,252,24,2018
+201800810,BAL,WAS,2018-05-29,2,3,7:06 PM,Oriole Park at Camden Yards,Laz Diaz,Manny Gonzalez,Andy Fletcher,Jeff Nelson,"78 degrees, cloudy","4 mph, R to L",13935,194,0,2018
+201800825,BAL,WAS,2018-05-30,0,2,7:06 PM,Oriole Park at Camden Yards,Manny Gonzalez,Andy Fletcher,Jeff Nelson,Laz Diaz,"75 degrees, cloudy","9 mph, Out to LF",20370,154,0,2018
+201800833,OAK,TBA,2018-05-31,7,3,12:37 PM,Oakland Coliseum,Paul Nauert,Lance Barksdale,Scott Barry,Carlos Torres,"63 degrees, cloudy","16 mph, In from RF",12070,157,0,2018
+201800857,CHA,MIL,2018-06-02,0,5,1:10 PM,Guaranteed Rate Field,Nick Mahrley,Doug Eddings,Mark Ripperger,Greg Gibson,"62 degrees, cloudy","9 mph, Out to RF",29281,172,0,2018
+201800886,SDN,ATL,2018-06-05,1,14,7:10 PM,Petco Park,Nic Lentz,Mark Carlson,Mark Ripperger,Gerry Davis,"65 degrees, cloudy","7 mph, L to R",21049,175,0,2018
+201800915,WAS,TBA,2018-06-06,11,2,1:05 PM,Nationals Park,Lance Barksdale,Tom Woodring,Will Little,Ted Barrett,"74 degrees, cloudy","6 mph, L to R",33106,170,0,2018
+201800940,CIN,SLN,2018-06-08,6,7,7:12 PM,Great American Ball Park,Brian Knight,Gerry Davis,Nic Lentz,Mark Carlson,"80 degrees, cloudy","5 mph, In from CF",26144,231,36,2018
+201801002,ATL,NYN,2018-06-13,2,0,12:10 PM,SunTrust Park,Gary Cederstrom,Cory Blaser,Stu Scheurwater,Eric Cooper,"80 degrees, partly cloudy","8 mph, R to L",32015,132,0,2018
+201801041,CLE,MIN,2018-06-16,3,9,4:10 PM,Progressive Field,D.J. Reyburn,Ryan Blakney,Sam Holbrook,Jim Wolf,"79 degrees, cloudy","6 mph, L to R",30282,175,0,2018
+201801077,CIN,DET,2018-06-19,9,5,7:11 PM,Great American Ball Park,Sam Holbrook,Jim Wolf,D.J. Reyburn,Ryan Blakney,"91 degrees, partly cloudy","5 mph, Varies",31085,212,0,2018
+201801097,NYA,SEA,2018-06-20,7,5,7:09 PM,Yankee Stadium,Marvin Hudson,Kerwin Danley,Quinn Wolcott,James Hoye,"79 degrees, cloudy","12 mph, R to L",46047,208,0,2018
+201801124,MIN,TEX,2018-06-22,1,8,7:10 PM,Target Field,Tripp Gibson III,Brian Gorman,Chad Whitson,Adrian Johnson,"81 degrees, partly cloudy","6 mph, In from CF",28004,181,0,2018
+201801132,COL,MIA,2018-06-23,2,6,1:13 PM,Coors Field,Jeff Nelson,Tom Woodring,Scott Barry,Carlos Torres,"82 degrees, partly cloudy","3 mph, Out to LF",39032,167,0,2018
+201801139,MIN,TEX,2018-06-23,6,9,1:11 PM,Target Field,Brian Gorman,Chad Whitson,Adrian Johnson,Tripp Gibson III,"78 degrees, cloudy","3 mph, Out to LF",23230,215,0,2018
+201801196,HOU,TOR,2018-06-27,7,6,1:11 PM,Minute Maid Park,Brian Gorman,Chad Whitson,Adrian Johnson,Tripp Gibson III,"73 degrees, roof closed","0 mph, None",39191,175,0,2018
+201801200,SFN,COL,2018-06-28,8,9,12:45 PM,AT&T Park,Jim Reynolds,John Tumpane,Mike DiMuro,Mark Wegner,"66 degrees, sunny","13 mph, Out to CF",37529,190,0,2018
+201801234,SDN,PIT,2018-06-30,4,3,7:10 PM,Petco Park,Todd Tichenor,Alan Porter,Angel Hernandez,Bill Miller,"65 degrees, clear","5 mph, Varies",32418,168,0,2018
+201801240,TEX,CHA,2018-07-01,5,10,2:08 PM,Globe Life Park in Arlington,Doug Eddings,Marty Foster,Joe West,Mark Ripperger,"97 degrees, sunny","11 mph, R to L",22684,196,0,2018
+201801242,LAN,COL,2018-07-01,6,4,1:10 PM,Dodger Stadium,Ryan Additon,Brian Gorman,Will Little,Lance Barksdale,"78 degrees, sunny","6 mph, Out to CF",45725,180,0,2018
+201801262,SEA,ANA,2018-07-03,4,1,7:09 PM,Safeco Field,Brian Gorman,Mike Muchlinski,Adrian Johnson,Tripp Gibson III,"73 degrees, clear","2 mph, Out to RF",38624,147,0,2018
+201801292,SEA,ANA,2018-07-05,4,1,7:10 PM,Safeco Field,Doug Eddings,Marty Foster,Joe West,Mark Ripperger,"75 degrees, clear","3 mph, Out to RF",32128,202,0,2018
+201801306,ANA,LAN,2018-07-06,3,2,7:07 PM,Angel Stadium,Mike Winters,Tim Timmons,Rob Drake,Chad Whitson,"108 degrees, clear","7 mph, Out to RF",44323,192,0,2018
+201801368,ANA,SEA,2018-07-10,9,3,7:09 PM,Angel Stadium,Ryan Blakney,Sam Holbrook,Jim Wolf,D.J. Reyburn,"80 degrees, clear","9 mph, Out to CF",33092,190,0,2018
+201801382,NYN,PHI,2018-07-11,3,0,7:11 PM,Citi Field,Tom Hallion,Jeremie Rehak,Phil Cuzzi,Dan Bellino,"80 degrees, partly cloudy","10 mph, Out to LF",22137,187,0,2018
+201801436,CLE,NYA,2018-07-15,5,2,1:11 PM,Progressive Field,Chris Segal,Gabe Morales,Ed Hickox,Jerry Meals,"85 degrees, sunny","6 mph, In from CF",32644,172,0,2018
+201801448,SEA,CHA,2018-07-20,3,1,7:11 PM,Safeco Field,Jordan Baker,Tom Woodring,Vic Carapazza,Jerry Layne,"73 degrees, clear","3 mph, Out to RF",43331,157,0,2018
+201801449,TEX,CLE,2018-07-20,8,9,7:08 PM,Globe Life Park in Arlington,Jim Wolf,D.J. Reyburn,Ryan Blakney,Sam Holbrook,"107 degrees, clear","11 mph, R to L",28253,288,0,2018
+201801468,KCA,MIN,2018-07-21,4,2,6:15 PM,Kauffman Stadium,John Tumpane,Nic Lentz,Mark Wegner,Jim Reynolds,"91 degrees, clear","12 mph, L to R",22159,191,0,2018
+201801510,TBA,NYA,2018-07-24,0,4,7:10 PM,Tropicana Field,Mike Muchlinski,Angel Hernandez,Mike Winters,Tim Timmons,"72 degrees, dome","0 mph, None",19579,157,0,2018
+201801540,MIA,WAS,2018-07-26,3,10,7:10 PM,Marlins Park,Chris Segal,Tim Timmons,Mike Muchlinski,Angel Hernandez,"77 degrees, roof closed","0 mph, None",8506,194,0,2018
+201801572,SLN,CHN,2018-07-29,2,5,8:23 PM,Busch Stadium,Jerry Layne,Jordan Baker,Greg Gibson,Vic Carapazza,"67 degrees, overcast","7 mph, R to L",45553,173,76,2018
+201801600,SLN,COL,2018-07-31,3,6,7:16 PM,Busch Stadium,Nic Lentz,Mark Ripperger,Marty Foster,Joe West,"73 degrees, cloudy","9 mph, In from CF",42636,171,0,2018
+201801604,LAN,MIL,2018-07-31,0,1,7:10 PM,Dodger Stadium,Alfonso Marquez,Brian Knight,Pat Hoberg,Gerry Davis,"81 degrees, clear","6 mph, Out to CF",44818,137,0,2018
+201801628,LAN,MIL,2018-08-02,21,5,6:08 PM,Dodger Stadium,Pat Hoberg,Gerry Davis,Alfonso Marquez,Brian Knight,"83 degrees, clear","7 mph, Out to CF",45087,222,0,2018
+201801636,TBA,CHA,2018-08-03,2,3,7:10 PM,Tropicana Field,John Tumpane,Jerry Meals,Ed Hickox,Ramon De Jesus,"72 degrees, dome","0 mph, None",16144,213,0,2018
+201801676,PIT,SLN,2018-08-05,1,2,1:39 PM,PNC Park,Ben May,Lance Barksdale,Ted Barrett,Will Little,"86 degrees, cloudy","8 mph, R to L",19376,178,0,2018
+201801704,WAS,ATL,2018-08-08,3,8,7:09 PM,Nationals Park,Vic Carapazza,Jordan Baker,Jerry Layne,Greg Gibson,"88 degrees, clear","8 mph, Out to RF",30203,184,0,2018
+201801729,CHA,CLE,2018-08-10,1,0,7:10 PM,Guaranteed Rate Field,Paul Nauert,Tom Woodring,Scott Barry,Carlos Torres,"76 degrees, clear","14 mph, Out to RF",18772,166,0,2018
+201801743,BAL,BOS,2018-08-11,0,5,1:07 PM,Oriole Park at Camden Yards,Andy Fletcher,Adrian Johnson,Marvin Hudson,Tripp Gibson III,"87 degrees, partly cloudy","8 mph, Out to CF",18003,168,0,2018
+201801775,DET,CHA,2018-08-13,9,5,7:10 PM,Comerica Park,Hunter Wendelstedt,Jansen Visconti,Larry Vanover,Chris Guccione,"82 degrees, cloudy","5 mph, L to R",20964,215,0,2018
+201801790,ATL,MIA,2018-08-14,10,6,7:35 PM,SunTrust Park,Chad Fairchild,Scott Barry,Carlos Torres,Paul Nauert,"85 degrees, partly cloudy","7 mph, R to L",19409,172,0,2018
+201801806,BAL,NYN,2018-08-15,5,16,7:06 PM,Oriole Park at Camden Yards,Manny Gonzalez,Laz Diaz,Jeff Nelson,John Libka,"87 degrees, partly cloudy","6 mph, Out to RF",25045,207,0,2018
+201801848,SLN,MIL,2018-08-18,7,2,6:16 PM,Busch Stadium,Ramon De Jesus,Stu Scheurwater,Gary Cederstrom,Cory Blaser,"85 degrees, partly cloudy","7 mph, In from LF",46040,174,0,2018
+201801876,LAN,SLN,2018-08-20,3,5,7:10 PM,Dodger Stadium,Jim Wolf,Chad Fairchild,D.J. Reyburn,Sam Holbrook,"77 degrees, clear","5 mph, Out to CF",42402,250,0,2018
+201801880,TOR,BAL,2018-08-21,8,2,7:08 PM,Rogers Centre,Dan Bellino,Phil Cuzzi,Adam Hamari,Ryan Blakney,"68 degrees, roof closed","0 mph, None",25855,159,0,2018
+201801900,TBA,KCA,2018-08-22,6,3,7:11 PM,Tropicana Field,John Libka,Scott Barry,Carlos Torres,Paul Nauert,"72 degrees, dome","0 mph, None",8686,172,0,2018
+201801909,DET,CHA,2018-08-23,7,2,1:11 PM,Comerica Park,Adam Hamari,Ryan Blakney,Dan Bellino,Phil Cuzzi,"77 degrees, sunny","7 mph, R to L",22247,167,0,2018
+201801919,DET,CHA,2018-08-24,3,6,7:10 PM,Comerica Park,Ryan Blakney,Hunter Wendelstedt,Phil Cuzzi,Adam Hamari,"75 degrees, partly cloudy","10 mph, Out to LF",23191,208,0,2018
+201801933,TBA,BOS,2018-08-25,5,1,6:10 PM,Tropicana Field,Todd Tichenor,Manny Gonzalez,Angel Hernandez,Alan Porter,"72 degrees, dome","0 mph, None",25695,173,0,2018
+201801946,SFN,TEX,2018-08-25,5,3,1:05 PM,AT&T Park,John Libka,Bill Miller,Jeff Nelson,Andy Fletcher,"64 degrees, partly cloudy","10 mph, Out to CF",40287,188,0,2018
+201801966,CHN,NYN,2018-08-27,7,4,7:05 PM,Wrigley Field,Ramon De Jesus,Stu Scheurwater,Gary Cederstrom,Eric Cooper,"90 degrees, partly cloudy","17 mph, Out to CF",38935,195,0,2018
+201801978,CHN,NYN,2018-08-28,2,1,7:04 PM,Wrigley Field,Stu Scheurwater,Gary Cederstrom,Eric Cooper,Ramon De Jesus,"79 degrees, rain","3 mph, Out to CF",37017,221,57,2018
+201802000,LAN,ARI,2018-08-30,1,3,7:10 PM,Dodger Stadium,Tom Hallion,Dan Bellino,Adam Hamari,Ryan Blakney,"77 degrees, clear","2 mph, Varies",45150,194,0,2018
+201802017,WAS,MIL,2018-08-31,1,4,7:05 PM,Nationals Park,Mark Carlson,Pat Hoberg,Brian Knight,Chad Whitson,"88 degrees, cloudy","4 mph, R to L",30676,191,0,2018
+201802026,KCA,BAL,2018-09-01,5,4,6:17 PM,Kauffman Stadium,Vic Carapazza,Jerry Layne,Ben May,Greg Gibson,"90 degrees, clear","16 mph, R to L",15358,176,0,2018
+201802038,MIA,TOR,2018-09-01,6,3,7:10 PM,Marlins Park,Mike Muchlinski,Mike Winters,Jansen Visconti,Tim Timmons,"77 degrees, roof closed","0 mph, None",11174,157,0,2018
+201802076,HOU,MIN,2018-09-04,5,2,7:10 PM,Minute Maid Park,Jeff Nelson,Andy Fletcher,Laz Diaz,Nick Mahrley,"73 degrees, roof closed","0 mph, None",31315,178,0,2018
+201802105,TOR,CLE,2018-09-07,3,2,7:07 PM,Rogers Centre,Angel Hernandez,Todd Tichenor,Chad Whitson,Alan Porter,"72 degrees, partly cloudy","6 mph, In from CF",26830,231,0,2018
+201802129,MIL,SFN,2018-09-08,4,3,6:11 PM,Miller Park,Tom Hallion,Dan Bellino,Adam Hamari,Phil Cuzzi,"65 degrees, cloudy","18 mph, L to R",40686,173,0,2018
+201802188,SLN,LAN,2018-09-13,7,9,6:15 PM,Busch Stadium,Marvin Hudson,James Hoye,Eric Cooper,Quinn Wolcott,"86 degrees, clear","3 mph, R to L",40997,208,0,2018
+201802226,BAL,CHA,2018-09-16,8,4,1:08 PM,Oriole Park at Camden Yards,Tom Hallion,Dan Bellino,Adam Hamari,Nick Mahrley,"76 degrees, partly cloudy","9 mph, R to L",19104,207,0,2018
+201802250,BAL,TOR,2018-09-17,0,5,7:35 PM,Oriole Park at Camden Yards,David Rackley,Larry Vanover,Jansen Visconti,Hunter Wendelstedt,"76 degrees, cloudy","2 mph, L to R",8198,136,30,2018
+201802262,SDN,SFN,2018-09-18,4,5,7:10 PM,Petco Park,Joe West,Chad Whitson,Mark Ripperger,Doug Eddings,"72 degrees, clear","11 mph, L to R",26285,200,0,2018
+201802278,ATL,SLN,2018-09-19,7,3,12:11 PM,SunTrust Park,D.J. Reyburn,Sam Holbrook,Vic Carapazza,Jim Wolf,"86 degrees, sunny","3 mph, L to R",25195,189,0,2018
+201802283,CLE,CHA,2018-09-20,4,5,7:10 PM,Progressive Field,Marty Foster,Mike Muchlinski,Mike Winters,Ryan Blakney,"82 degrees, partly cloudy","12 mph, In from RF",19457,263,0,2018
+201802329,ATL,PHI,2018-09-23,2,1,1:37 PM,SunTrust Park,Hunter Wendelstedt,Gerry Davis,Pat Hoberg,Brian Knight,"84 degrees, partly cloudy","5 mph, In from RF",34214,163,0,2018
+201802341,SEA,OAK,2018-09-24,3,7,7:10 PM,Safeco Field,Gabe Morales,Jerry Meals,Chris Guccione,Ed Hickox,"60 degrees, clear","2 mph, L to R",16491,183,0,2018
+201802398,COL,WAS,2018-09-28,5,2,6:11 PM,Coors Field,Larry Vanover,Hunter Wendelstedt,Chris Guccione,David Rackley,"51 degrees, partly cloudy","7 mph, R to L",48089,171,0,2018
+201802401,MIN,CHA,2018-09-29,8,3,6:10 PM,Target Field,Jim Reynolds,Mark Wegner,John Tumpane,John Libka,"47 degrees, overcast","9 mph, In from CF",32717,200,0,2018
+201802402,KCA,CLE,2018-09-29,9,4,6:16 PM,Kauffman Stadium,Bruce Dreckman,Chad Fairchild,Kerwin Danley,Mike Estabrook,"72 degrees, cloudy","5 mph, R to L",23324,187,0,2018
+201802421,SFN,LAN,2018-09-30,0,15,12:06 PM,AT&T Park,Pat Hoberg,Ed Hickox,Gerry Davis,Todd Tichenor,"68 degrees, partly cloudy","7 mph, Out to CF",41280,167,0,2018
+201802422,NYN,MIA,2018-09-30,1,0,3:10 PM,Citi Field,Mike Muchlinski,Ben May,Tim Timmons,Ryan Blakney,"71 degrees, sunny","8 mph, Out to LF",28346,130,0,2018

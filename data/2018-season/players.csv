@@ -1,0 +1,826 @@
+name,bats,throws,height,weight,playerID,birthYear,birthMonth,birthDay,birthCity,birthState,birthCountry,debut
+Jose Abreu,R,R,75.0,255.0,abreujo02,1987,1,29,Cienfuegos,Cienfuegos,Cuba,20140331
+Ronald Acuna,R,R,72.0,180.0,acunaro01,1997,12,18,La Guaira,Vargas,Venezuela,20180425
+Willy Adames,R,R,72.0,200.0,adamewi01,1995,9,2,Santiago,Santiago,D.R.,20180522
+Matt Adams,L,R,75.0,245.0,adamsma01,1988,8,31,Philipsburg,PA,USA,20120520
+Jim Adduci,L,L,74.0,210.0,adducji02,1985,5,15,Burnaby,BC,CAN,20130901
+Ehire Adrianza,B,R,73.0,170.0,adriaeh01,1989,8,21,Guarenas,Miranda,Venezuela,20130908
+Jesus Aguilar,R,R,75.0,250.0,aguilje01,1990,6,30,Maracay,Aragua,Venezuela,20140515
+Nick Ahmed,R,R,74.0,195.0,ahmedni01,1990,3,15,Springfield,MA,USA,20140629
+Ozzie Albies,B,R,68.0,165.0,albieoz01,1997,1,7,Willemstad,,Curacao,20170801
+Scott Alexander,L,L,74.0,190.0,alexasc01,1989,7,10,Santa Rosa,CA,USA,20150902
+Jorge Alfaro,R,R,74.0,225.0,alfarjo01,1993,6,11,Sincelejo,Sucre,Colombia,20160912
+Cody Allen,R,R,73.0,210.0,allenco01,1988,11,20,Orlando,FL,USA,20120720
+Greg Allen,B,R,72.0,175.0,allengr01,1993,3,15,San Diego,CA,USA,20170901
+Abraham Almonte,B,R,69.0,210.0,almonab01,1989,6,27,Santo Domingo,Distrito Nacional,D.R.,20130830
+Albert Almora,R,R,74.0,190.0,almoral01,1994,4,16,Hialeah,FL,USA,20160607
+Yonder Alonso,L,R,73.0,230.0,alonsyo01,1987,4,8,La Habana,La Habana,Cuba,20100901
+Aaron Altherr,R,R,77.0,215.0,altheaa01,1991,1,14,Landstuhl,Rhineland-Palatinate,Germany,20140616
+Jose Altuve,R,R,66.0,165.0,altuvjo01,1990,5,6,Puerto Cabello,Carabobo,Venezuela,20110720
+Jose Alvarez,L,L,71.0,180.0,alvarjo02,1989,5,6,Barcelona,Anzoategui,Venezuela,20130609
+Jose Alvarado,L,L,72.0,240.0,alvarjo03,1995,5,21,Maracaibo,Zulia,Venezuela,20170503
+Brian Anderson,R,R,75.0,185.0,anderbr06,1993,5,19,Edmond,OK,USA,20170901
+Justin Anderson,L,R,75.0,220.0,anderju01,1992,9,28,Houston,TX,USA,20180423
+Tim Anderson,R,R,73.0,185.0,anderti01,1993,6,23,Tuscaloosa,AL,USA,20160610
+Elvis Andrus,R,R,72.0,200.0,andruel01,1988,8,26,Maracay,Aragua,Venezuela,20090406
+Miguel Andujar,R,R,72.0,215.0,andujmi01,1995,3,2,San Cristobal,San Cristobal,D.R.,20170628
+Victor Arano,R,R,74.0,200.0,aranovi01,1995,2,7,Cosamaloapan,Veracruz,Mexico,20170912
+Orlando Arcia,R,R,72.0,165.0,arciaor01,1994,8,4,Anaco,Anzoategui,Venezuela,20160802
+Nolan Arenado,R,R,74.0,205.0,arenano01,1991,4,16,Newport Beach,CA,USA,20130428
+Carlos Asuaje,L,R,69.0,158.0,asuajca01,1991,11,2,Barquisimeto,Lara,Venezuela,20160921
+Alex Avila,L,R,71.0,210.0,avilaal01,1987,1,29,Hialeah,FL,USA,20090806
+Luis Avilan,L,L,74.0,220.0,avilalu01,1989,7,19,Caracas,Distrito Federal,Venezuela,20120714
+Harrison Bader,R,R,72.0,195.0,baderha01,1994,6,3,Bronxville,NY,USA,20170725
+Javier Baez,R,R,72.0,190.0,baezja01,1992,12,1,Bayamon,,P.R.,20140805
+Pedro Baez,R,R,72.0,230.0,baezpe01,1988,3,11,Bani,Peravia,D.R.,20140505
+Austin Barnes,R,R,70.0,190.0,barneau01,1989,12,28,Fullerton,CA,USA,20150524
+Matt Barnes,R,R,76.0,210.0,barnema01,1990,6,17,Danbury,CT,USA,20140909
+Tucker Barnhart,B,R,71.0,192.0,barnhtu01,1991,1,7,Indianapolis,IN,USA,20140403
+Kyle Barraclough,R,R,75.0,225.0,barraky01,1990,5,23,Santa Clara,CA,USA,20150807
+Jake Bauers,L,L,73.0,195.0,bauerja01,1995,10,6,Newport Beach,CA,USA,20180607
+Jose Bautista,R,R,72.0,205.0,bautijo02,1980,10,19,Santo Domingo,Distrito Nacional,D.R.,20040404
+Tim Beckham,R,R,73.0,205.0,beckhti01,1990,1,27,Griffin,GA,USA,20130919
+Cam Bedrosian,R,R,72.0,230.0,bedroca01,1991,10,2,Senoia,GA,USA,20140603
+Cody Bellinger,L,L,76.0,210.0,bellico01,1995,7,13,Scottsdale,AZ,USA,20170425
+Josh Bell,B,R,76.0,240.0,belljo02,1992,8,14,Irving,TX,USA,20160708
+Brandon Belt,L,L,76.0,235.0,beltbr01,1988,4,20,Nacogdoches,TX,USA,20110331
+Adrian Beltre,R,R,71.0,220.0,beltrad01,1979,4,7,Santo Domingo,Distrito Nacional,D.R.,19980624
+Andrew Benintendi,L,L,70.0,170.0,beninan01,1994,7,6,Cincinnati,OH,USA,20160802
+Dellin Betances,R,R,80.0,265.0,betande01,1988,3,23,New York,NY,USA,20110922
+Mookie Betts,R,R,69.0,180.0,bettsmo01,1992,10,7,Nashville,TN,USA,20140629
+Joe Biagini,R,R,77.0,240.0,biagijo01,1990,5,29,Redwood City,CA,USA,20160408
+Jesse Biddle,L,L,77.0,220.0,biddlje01,1991,10,22,Philadelphia,PA,USA,20180421
+Greg Bird,L,R,76.0,220.0,birdgr01,1992,11,9,Memphis,TN,USA,20150813
+Ty Blach,R,L,73.0,213.0,blachty01,1990,10,20,Denver,CO,USA,20160905
+Charlie Blackmon,L,L,75.0,210.0,blackch02,1986,7,1,Dallas,TX,USA,20110607
+Gregor Blanco,L,L,70.0,187.0,blancgr01,1983,12,24,Caracas,Distrito Federal,Venezuela,20080330
+Alex Blandino,R,R,72.0,190.0,blandal01,1992,11,6,Palo Alto,CA,USA,20180410
+Jerry Blevins,L,L,78.0,190.0,blevije01,1983,9,6,Johnson City,TN,USA,20070916
+Xander Bogaerts,R,R,73.0,210.0,bogaexa01,1992,10,1,Oranjestad,,Aruba,20130820
+Jorge Bonifacio,R,R,73.0,225.0,bonifjo01,1993,6,4,Santo Domingo,Distrito Nacional,D.R.,20170421
+David Bote,R,R,73.0,210.0,boteda01,1993,4,7,Longmont,CO,USA,20180421
+Justin Bour,L,R,75.0,265.0,bourju01,1988,5,28,Washington,DC,USA,20140605
+Brad Boxberger,R,R,74.0,205.0,boxbebr01,1988,5,27,Fullerton,CA,USA,20120610
+Archie Bradley,R,R,76.0,225.0,bradlar01,1992,8,10,Muskogee,OK,USA,20150411
+Jackie Bradley,L,R,70.0,200.0,bradlja02,1990,4,19,Richmond,VA,USA,20130401
+Michael Brantley,L,L,74.0,200.0,brantmi02,1987,5,15,Bellevue,WA,USA,20090901
+Ryan Braun,R,R,74.0,205.0,braunry02,1983,11,17,Mission Hills,CA,USA,20070525
+Alex Bregman,R,R,72.0,180.0,bregmal01,1994,3,30,Albuquerque,NM,USA,20160725
+Lewis Brinson,R,R,75.0,195.0,brinsle01,1994,5,8,Fort Lauderdale,FL,USA,20170611
+Keon Broxton,R,R,75.0,195.0,broxtke01,1990,5,7,Lakeland,FL,USA,20150921
+Jay Bruce,L,L,75.0,225.0,bruceja01,1987,4,3,Beaumont,TX,USA,20080527
+Kris Bryant,R,R,77.0,230.0,bryankr01,1992,1,4,Las Vegas,NV,USA,20150417
+Ryan Buchter,L,L,76.0,258.0,buchtry01,1987,2,13,Reading,PA,USA,20140620
+Drew Butera,R,R,73.0,205.0,buterdr01,1983,8,9,Evansville,IN,USA,20100409
+Asdrubal Cabrera,B,R,72.0,205.0,cabreas01,1985,11,13,Puerto La Cruz,Anzoategui,Venezuela,20070808
+Melky Cabrera,B,L,70.0,210.0,cabreme01,1984,8,11,Santo Domingo,Distrito Nacional,D.R.,20050707
+Lorenzo Cain,R,R,74.0,205.0,cainlo01,1986,4,13,Valdosta,GA,USA,20100716
+Kole Calhoun,L,L,70.0,200.0,calhoko01,1987,10,14,Buckeye,AZ,USA,20120522
+Johan Camargo,B,R,72.0,195.0,camarjo01,1993,12,13,Panama,Panama,Panama,20170411
+Jeimer Candelario,B,R,73.0,221.0,candeje01,1993,11,24,New York,NY,USA,20160703
+Mark Canha,R,R,74.0,210.0,canhama01,1989,2,15,San Jose,CA,USA,20150408
+Robinson Cano,L,R,72.0,210.0,canoro01,1982,10,22,San Pedro de Macoris,San Pedro de Macoris,D.R.,20050503
+Victor Caratini,B,R,73.0,215.0,caratvi01,1993,8,17,Coamo,,P.R.,20170628
+Shane Carle,R,R,76.0,210.0,carlesh01,1991,8,30,Santa Cruz,CA,USA,20170414
+Matt Carpenter,L,R,75.0,205.0,carpema01,1985,11,26,Galveston,TX,USA,20110604
+Curt Casali,R,R,75.0,235.0,casalcu01,1988,11,9,Walnut Creek,CA,USA,20140718
+Nick Castellanos,R,R,76.0,203.0,casteni01,1992,3,4,Davie,FL,USA,20130901
+Miguel Castro,R,R,79.0,205.0,castrmi01,1994,12,24,La Romana,La Romana,D.R.,20150406
+Starlin Castro,R,R,74.0,230.0,castrst01,1990,3,24,Monte Cristi,Monte Cristi,D.R.,20100507
+Jake Cave,L,L,72.0,200.0,caveja01,1992,12,4,Hampton,VA,USA,20180519
+Francisco Cervelli,R,R,73.0,210.0,cervefr01,1986,3,6,Valencia,Carabobo,Venezuela,20080918
+Andrew Chafin,R,L,74.0,225.0,chafian01,1990,6,17,Kettering,OH,USA,20140813
+Aroldis Chapman,L,L,76.0,212.0,chapmar01,1988,2,28,Holguin,Holguin,Cuba,20100831
+Matt Chapman,R,R,72.0,210.0,chapmma01,1993,4,28,Victorville,CA,USA,20170615
+Robinson Chirinos,R,R,73.0,210.0,chiriro01,1984,6,5,Punto Fijo,Falcon,Venezuela,20110718
+Shin-Soo Choo,L,L,71.0,210.0,choosh01,1982,7,13,Busan,Busan,South Korea,20050421
+Steve Cishek,R,R,78.0,215.0,cishest01,1986,6,18,Falmouth,MA,USA,20100926
+Alex Claudio,L,L,75.0,180.0,claudal01,1992,1,31,San Juan,,P.R.,20140813
+Tyler Clippard,R,R,75.0,200.0,clippty01,1985,2,14,Lexington,KY,USA,20070520
+Louis Coleman,R,R,76.0,205.0,colemlo01,1986,4,4,Greenwood,MS,USA,20110421
+Michael Conforto,L,R,73.0,215.0,confomi01,1993,3,1,Seattle,WA,USA,20150724
+Adam Conley,L,L,75.0,200.0,conlead01,1990,5,24,Redmond,WA,USA,20150610
+Willson Contreras,R,R,73.0,210.0,contrwi01,1992,5,13,Puerto Cabello,Carabobo,Venezuela,20160617
+Carlos Correa,R,R,76.0,215.0,correca01,1994,9,22,Ponce,,P.R.,20150608
+Zack Cozart,R,R,72.0,204.0,cozarza01,1985,8,12,Memphis,TN,USA,20110707
+Brandon Crawford,L,R,74.0,227.0,crawfbr01,1987,1,21,Mountain View,CA,USA,20110527
+Kyle Crick,L,R,76.0,220.0,crickky01,1992,11,30,Fort Worth,TX,USA,20170622
+C. J. Cron,R,R,76.0,235.0,croncj01,1990,1,5,Fullerton,CA,USA,20140503
+Nelson Cruz,R,R,74.0,230.0,cruzne02,1980,7,1,Las Matas de Santa Cruz,Monte Cristi,D.R.,20050917
+Noel Cuevas,R,R,74.0,210.0,cuevano01,1991,10,2,Camuy,,P.R.,20180422
+Charlie Culberson,R,R,72.0,200.0,culbech01,1989,4,10,Rome,GA,USA,20120513
+David Dahl,L,R,74.0,195.0,dahlda01,1994,4,1,Birmingham,AL,USA,20160725
+Matt Davidson,R,R,75.0,230.0,davidma02,1991,3,26,Yucaipa,CA,USA,20130811
+Chris Davis,L,R,75.0,230.0,davisch02,1986,3,17,Longview,TX,USA,20080626
+Khris Davis,R,R,70.0,195.0,daviskh01,1987,12,21,Lakewood,CA,USA,20130401
+Rajai Davis,R,R,70.0,195.0,davisra01,1980,10,19,Norwich,CT,USA,20060814
+Wade Davis,R,R,77.0,225.0,daviswa01,1985,9,7,Lake Wales,FL,USA,20090906
+Paul DeJong,R,R,73.0,195.0,dejonpa01,1993,8,2,Orlando,FL,USA,20170528
+Nick Delmonico,L,R,75.0,230.0,delmoni01,1992,7,12,Knoxville,TN,USA,20170801
+Daniel Descalso,L,R,70.0,190.0,descada01,1986,10,19,Redwood City,CA,USA,20100918
+Delino DeShields,R,R,69.0,200.0,deshide02,1992,8,16,Easton,MD,USA,20150408
+Ian Desmond,R,R,75.0,215.0,desmoia01,1985,9,20,Sarasota,FL,USA,20090910
+Chris Devenski,R,R,75.0,210.0,devench02,1990,11,13,Cerritos,CA,USA,20160408
+Rafael Devers,L,R,72.0,237.0,deverra01,1996,10,24,Sanchez,Samana,D.R.,20170725
+Aledmys Diaz,R,R,73.0,195.0,diazal02,1990,8,1,Santa Clara,,Cuba,20160405
+Edwin Diaz,R,R,75.0,195.0,diazed04,1994,3,22,Naguabo,,P.R.,20160606
+Elias Diaz,R,R,73.0,220.0,diazel01,1990,11,17,Maracaibo,Zulia,Venezuela,20150912
+Corey Dickerson,L,R,73.0,210.0,dickeco01,1989,5,22,McComb,MS,USA,20130622
+Derek Dietrich,L,R,72.0,205.0,dietrde01,1989,7,18,Cleveland,OH,USA,20130508
+Wilmer Difo,B,R,71.0,200.0,difowi01,1992,4,2,Santiago de los Caballeros,Santiago,D.R.,20150519
+Brandon Dixon,R,R,74.0,215.0,dixonbr01,1992,1,29,La Jolla,CA,USA,20180522
+Seranthony Dominguez,R,R,73.0,185.0,dominse01,1994,11,25,Esperanza,Valverde,D.R.,20180507
+Brian Dozier,R,R,71.0,200.0,doziebr01,1987,5,15,Fulton,MS,USA,20120507
+Hunter Dozier,R,R,76.0,220.0,doziehu01,1991,8,22,Wichita Falls,TX,USA,20160912
+Lucas Duda,L,R,76.0,255.0,dudalu01,1986,2,3,Los Angeles,CA,USA,20100901
+Matt Duffy,R,R,74.0,170.0,duffyma01,1991,1,15,Long Beach,CA,USA,20140522
+Adam Duvall,R,R,73.0,215.0,duvalad01,1988,9,4,Louisville,KY,USA,20140626
+Jarrod Dyson,L,R,70.0,165.0,dysonja01,1984,8,15,McComb,MS,USA,20100907
+Sam Dyson,R,R,73.0,212.0,dysonsa01,1988,5,7,Tampa,FL,USA,20120705
+Adam Eaton,L,L,69.0,176.0,eatonad02,1988,12,6,Springfield,OH,USA,20120904
+Carl Edwards,R,R,75.0,170.0,edwarca01,1991,9,3,Newberry,SC,USA,20150907
+A. J. Ellis,R,R,74.0,225.0,ellisaj01,1981,4,9,Cape Girardeau,MO,USA,20080915
+Edwin Encarnacion,R,R,73.0,230.0,encared01,1983,1,7,La Romana,La Romana,D.R.,20050624
+Adam Engel,R,R,74.0,210.0,engelad01,1991,12,9,Cincinnati,OH,USA,20170527
+Phil Ervin,R,R,70.0,207.0,ervinph01,1992,7,15,Mobile,AL,USA,20170422
+Alcides Escobar,R,R,73.0,205.0,escobal02,1986,12,16,La Sabana,Vargas,Venezuela,20080903
+Eduardo Escobar,B,R,70.0,185.0,escobed01,1989,1,5,Villa de Cura,Aragua,Venezuela,20110902
+Buck Farmer,L,R,76.0,232.0,farmebu01,1991,2,20,Conyers,GA,USA,20140813
+Johnny Field,R,R,70.0,180.0,fieldjo04,1992,2,20,Las Vegas,NV,USA,20180414
+Ryan Flaherty,L,R,75.0,220.0,flahery01,1986,7,27,Portland,ME,USA,20120407
+David Fletcher,R,R,70.0,175.0,fletcda02,1994,5,31,Orange,CA,USA,20180613
+Wilmer Flores,R,R,75.0,205.0,florewi01,1991,8,6,Valencia,Carabobo,Venezuela,20130806
+Pedro Florimon,B,R,74.0,185.0,floripe01,1986,12,10,La Romana,La Romana,D.R.,20110910
+Tyler Flowers,R,R,76.0,260.0,flowety01,1986,1,24,Roswell,GA,USA,20090903
+Logan Forsythe,R,R,73.0,195.0,forsylo01,1987,1,14,Memphis,TN,USA,20110504
+Dexter Fowler,B,R,77.0,195.0,fowlede01,1986,3,22,Atlanta,GA,USA,20080902
+Dustin Fowler,L,L,72.0,195.0,fowledu01,1994,12,29,Cadwell,GA,USA,20170629
+Maikel Franco,R,R,73.0,215.0,francma02,1992,8,26,Azua,Azua,D.R.,20140902
+Adam Frazier,L,R,70.0,180.0,fraziad01,1991,12,14,Athens,GA,USA,20160624
+Todd Frazier,R,R,75.0,220.0,frazito01,1986,2,12,Point Pleasant,NJ,USA,20110523
+Freddie Freeman,L,R,77.0,220.0,freemfr01,1989,9,12,Fountain Valley,CA,USA,20100901
+Sam Freeman,R,L,71.0,180.0,freemsa01,1987,6,24,Houston,TX,USA,20120601
+David Freese,R,R,74.0,220.0,freesda01,1983,4,28,Corpus Christi,TX,USA,20090406
+Jace Fry,L,L,73.0,190.0,fryja01,1993,7,9,Beaverton,OR,USA,20170905
+Joey Gallo,L,R,77.0,235.0,gallojo01,1993,11,19,Henderson,NV,USA,20150602
+Freddy Galvis,B,R,70.0,185.0,galvifr01,1989,11,14,Punto Fijo,Falcon,Venezuela,20120405
+Ben Gamel,L,L,71.0,185.0,gamelbe01,1992,5,17,Neptune Beach,FL,USA,20160506
+Avisail Garcia,R,R,76.0,240.0,garciav01,1991,6,12,Anaco,Anzoategui,Venezuela,20120831
+Greg Garcia,L,R,72.0,190.0,garcigr01,1989,8,8,El Cajon,CA,USA,20140428
+Leury Garcia,B,R,68.0,180.0,garcile02,1991,3,18,Santiago,Santiago,D.R.,20130406
+Luis Garcia,R,R,75.0,230.0,garcilu03,1987,1,30,Santo Domingo,Distrito Nacional,D.R.,20130710
+Brett Gardner,L,L,71.0,195.0,gardnbr01,1983,8,24,Holly Hill,SC,USA,20080630
+Amir Garrett,R,L,77.0,228.0,garream01,1992,5,3,Victorville,CA,USA,20170407
+Mitch Garver,R,R,73.0,220.0,garvemi01,1991,1,15,Albuquerque,NM,USA,20170819
+Evan Gattis,R,R,76.0,270.0,gattiev01,1986,8,18,Dallas,TX,USA,20130403
+Scooter Gennett,L,R,70.0,185.0,gennesc01,1990,5,1,Cincinnati,OH,USA,20130603
+Craig Gentry,R,R,74.0,190.0,gentrcr01,1983,11,29,Fort Smith,AR,USA,20090906
+Mychal Givens,R,R,72.0,210.0,givenmy01,1990,5,13,Tampa,FL,USA,20150624
+Paul Goldschmidt,R,R,75.0,225.0,goldspa01,1987,9,10,Wilmington,DE,USA,20110801
+Yan Gomes,R,R,74.0,215.0,gomesya01,1987,7,19,Sao Paulo,Sao Paulo,Brazil,20120517
+Carlos Gomez,R,R,75.0,220.0,gomezca01,1985,12,4,Santiago,Santiago,D.R.,20070513
+Adrian Gonzalez,L,L,74.0,215.0,gonzaad01,1982,5,8,San Diego,CA,USA,20040418
+Carlos Gonzalez,L,L,73.0,220.0,gonzaca01,1985,10,17,Maracaibo,Zulia,Venezuela,20080530
+Erik Gonzalez,R,R,75.0,205.0,gonzaer01,1991,8,31,Puerto Plata,Puerto Plata,D.R.,20160716
+Marwin Gonzalez,B,R,73.0,205.0,gonzama01,1989,3,14,Puerto Ordaz,Bolivar,Venezuela,20120406
+Niko Goodrum,B,R,75.0,198.0,goodrni01,1992,2,28,Fayetteville,GA,USA,20170902
+Alex Gordon,L,R,73.0,225.0,gordoal01,1984,2,10,Lincoln,NE,USA,20070402
+Dee Gordon,L,R,71.0,170.0,gordode01,1988,4,22,Windermere,FL,USA,20110606
+Yuli Gurriel,R,R,72.0,190.0,gourryu01,1984,6,9,Sancti Spiritus,,Cuba,20160821
+Matt Grace,L,L,76.0,215.0,gracema02,1988,12,14,Palos Verdes Estates,CA,USA,20150422
+Curtis Granderson,L,R,73.0,200.0,grandcu01,1981,3,16,Blue Island,IL,USA,20040913
+Yasmani Grandal,B,R,73.0,235.0,grandya01,1988,11,8,La Habana,La Habana,Cuba,20120602
+Chad Green,L,R,75.0,210.0,greench03,1991,5,24,Greenville,SC,USA,20160516
+Shane Greene,R,R,76.0,197.0,greensh02,1988,11,17,Clermont,FL,USA,20140424
+Didi Gregorius,L,R,75.0,205.0,gregodi01,1990,2,18,Amsterdam,North Holland,Netherlands,20120905
+Randal Grichuk,R,R,73.0,205.0,grichra01,1991,8,13,Rosenberg,TX,USA,20140428
+Robbie Grossman,B,L,72.0,215.0,grossro01,1989,9,16,San Diego,CA,USA,20130424
+Robert Gsellman,R,R,76.0,205.0,gsellro01,1993,7,18,Santa Monica,CA,USA,20160823
+Tayron Guerrero,R,R,80.0,210.0,guerrta01,1991,1,9,Boca Chica,Bolivar,Colombia,20160517
+Lourdes Gurriel,R,R,74.0,185.0,gurrilo01,1993,10,10,Sancti Spiritus,,Cuba,20180420
+Brandon Guyer,R,R,74.0,200.0,guyerbr01,1986,1,28,West Chester,PA,USA,20110506
+Ronald Guzman,L,L,77.0,225.0,guzmaro01,1994,10,20,La Vega,La Vega,D.R.,20180413
+Jedd Gyorko,R,R,70.0,215.0,gyorkje01,1988,9,23,Morgantown,WV,USA,20130401
+Josh Hader,L,L,75.0,185.0,haderjo01,1994,4,7,Millersville,MD,USA,20170610
+Billy Hamilton,B,R,72.0,160.0,hamilbi02,1990,9,9,Taylorsville,MS,USA,20130903
+Mitch Haniger,R,R,74.0,215.0,hanigmi01,1990,12,23,Mountain View,CA,USA,20160816
+Alen Hanson,B,R,72.0,170.0,hansoal01,1992,10,22,La Romana,La Romana,D.R.,20160516
+Ian Happ,B,R,72.0,205.0,happia01,1994,8,12,Pittsburgh,PA,USA,20170513
+Bryce Harper,L,R,75.0,220.0,harpebr03,1992,10,16,Las Vegas,NV,USA,20120428
+Josh Harrison,R,R,68.0,185.0,harrijo05,1987,7,8,Cincinnati,OH,USA,20110531
+Will Harris,R,R,76.0,250.0,harriwi02,1984,8,28,Houston,TX,USA,20120813
+Ryon Healy,R,R,77.0,225.0,healyry01,1992,1,10,West Hills,CA,USA,20160715
+Adeiny Hechavarria,R,R,72.0,195.0,hechaad01,1989,4,15,Santiago de Cuba,Santiago de Cuba,Cuba,20120804
+Austin Hedges,R,R,73.0,206.0,hedgeau01,1992,8,18,San Juan Capistrano,CA,USA,20150504
+Heath Hembree,R,R,76.0,210.0,hembrhe01,1989,1,13,Spartanburg,SC,USA,20130903
+Guillermo Heredia,R,L,70.0,180.0,heredgu01,1991,1,31,Matanzas,Matanzas,Cuba,20160729
+Cesar Hernandez,B,R,70.0,160.0,hernace02,1990,5,23,Valencia,Carabobo,Venezuela,20130529
+David Hernandez,R,R,75.0,245.0,hernada01,1985,5,13,Sacramento,CA,USA,20090528
+Enrique Hernandez,R,R,71.0,200.0,hernaen02,1991,8,24,San Juan,,P.R.,20140701
+Gorkys Hernandez,R,R,73.0,196.0,hernago01,1987,9,7,Guiria,Sucre,Venezuela,20120521
+Teoscar Hernandez,R,R,74.0,180.0,hernate01,1992,10,15,Cotui,Sanchez Ramirez,D.R.,20160812
+Dilson Herrera,R,R,70.0,210.0,herredi01,1994,3,3,Cartagena,Bolivar,Colombia,20140829
+Odubel Herrera,L,R,71.0,200.0,herreod01,1991,12,29,San Jose,Anzoategui,Venezuela,20150406
+Rosell Herrera,B,R,75.0,195.0,herrero02,1992,10,16,Santo Domingo,Distrito Nacional,D.R.,20180426
+Jason Heyward,L,L,77.0,240.0,heywaja01,1989,8,9,Ridgewood,NJ,USA,20100405
+Aaron Hicks,B,R,73.0,202.0,hicksaa01,1989,10,2,San Pedro,CA,USA,20130401
+John Hicks,R,R,74.0,230.0,hicksjo02,1989,8,31,Richmond,VA,USA,20150829
+Jordan Hicks,R,R,74.0,185.0,hicksjo03,1996,9,6,Houston,TX,USA,20180329
+Trevor Hildenberger,R,R,74.0,211.0,hildetr01,1990,12,15,San Jose,CA,USA,20170623
+Tim Hill,R,L,74.0,200.0,hillti01,1990,2,10,Sylmar,CA,USA,20180329
+Yoshihisa Hirano,R,R,73.0,185.0,hiranyo01,1984,3,8,Uji,Kyoto,Japan,20180329
+Bryan Holaday,R,R,72.0,205.0,holadbr01,1987,11,19,Dallas,TX,USA,20120606
+Jonathan Holder,R,R,74.0,235.0,holdejo02,1993,6,9,Gulfport,MS,USA,20160902
+Brock Holt,L,R,68.0,180.0,holtbr01,1988,6,11,Fort Worth,TX,USA,20120901
+Rhys Hoskins,R,R,76.0,225.0,hoskirh01,1993,3,17,Sacramento,CA,USA,20170810
+Eric Hosmer,L,L,76.0,225.0,hosmeer01,1989,10,24,South Miami,FL,USA,20110506
+Jared Hughes,R,R,79.0,240.0,hugheja02,1985,7,4,Stamford,CT,USA,20110907
+Nick Hundley,R,R,72.0,203.0,hundlni01,1983,9,8,Corvallis,OR,USA,20080704
+Tommy Hunter,R,R,75.0,250.0,hunteto02,1986,7,3,Indianapolis,IN,USA,20080801
+Chris Iannetta,R,R,72.0,230.0,iannech01,1983,4,8,Providence,RI,USA,20060827
+Jose Iglesias,R,R,71.0,194.0,iglesjo01,1990,1,5,La Habana,La Habana,Cuba,20110508
+Raisel Iglesias,R,R,74.0,188.0,iglesra01,1990,1,4,Isla de la Juventud,,Cuba,20150412
+Ender Inciarte,L,L,71.0,190.0,inciaen01,1990,10,29,Maracaibo,Zulia,Venezuela,20140502
+Austin Jackson,R,R,73.0,198.0,jacksau01,1987,2,1,Denton,TX,USA,20100405
+Travis Jankowski,L,R,75.0,185.0,jankotr01,1991,6,15,Lancaster,PA,USA,20150821
+Kenley Jansen,B,R,77.0,275.0,janseke01,1987,9,30,Willemstad,,Curacao,20100724
+Jon Jay,L,L,71.0,195.0,jayjo02,1985,3,15,Miami,FL,USA,20100426
+Jeremy Jeffress,R,R,72.0,205.0,jeffrje01,1987,9,21,South Boston,VA,USA,20100901
+Dan Jennings,L,L,75.0,210.0,jennida01,1987,4,17,Berkeley,CA,USA,20120430
+Joe Jimenez,R,R,75.0,272.0,jimenjo02,1995,1,17,San Juan,,P.R.,20170413
+Jim Johnson,R,R,78.0,250.0,johnsji04,1983,6,27,Johnson City,NY,USA,20060729
+Adam Jones,R,R,74.0,215.0,jonesad01,1985,8,1,San Diego,CA,USA,20060714
+JaCoby Jones,R,R,74.0,201.0,jonesja07,1992,5,10,Chickasha,OK,USA,20160830
+Caleb Joseph,R,R,75.0,180.0,josepca01,1986,6,18,Nashville,TN,USA,20140507
+Matthew Joyce,L,R,74.0,205.0,joycema01,1984,8,3,Tampa,FL,USA,20080505
+Aaron Judge,R,R,79.0,282.0,judgeaa01,1992,4,26,Linden,CA,USA,20160813
+Joe Kelly,R,R,73.0,190.0,kellyjo05,1988,6,9,Anaheim,CA,USA,20120610
+Matt Kemp,R,R,76.0,210.0,kempma01,1984,9,23,Midwest City,OK,USA,20060528
+Tony Kemp,L,R,66.0,165.0,kempto01,1991,10,31,Franklin,TN,USA,20160517
+Max Kepler,L,L,76.0,205.0,keplema01,1993,2,10,Berlin,Berlin,Germany,20150927
+Spencer Kieboom,R,R,72.0,210.0,kiebosp01,1991,3,16,Mount Pleasant,SC,USA,20161002
+Kevin Kiermaier,L,R,73.0,215.0,kiermke01,1990,4,22,Fort Wayne,IN,USA,20130930
+Craig Kimbrel,R,R,71.0,220.0,kimbrcr01,1988,5,28,Huntsville,AL,USA,20100507
+Isiah Kiner-Falefa,R,R,70.0,176.0,kineris01,1995,3,23,Honolulu,HI,USA,20180410
+Scott Kingery,R,R,70.0,180.0,kingesc01,1994,4,29,Phoenix,AZ,USA,20180330
+Ian Kinsler,R,R,72.0,200.0,kinslia01,1982,6,22,Tucson,AZ,USA,20060403
+Jason Kipnis,L,R,71.0,195.0,kipnija01,1987,4,3,Northbrook,IL,USA,20110722
+Andrew Knapp,B,R,73.0,195.0,knappan01,1991,11,9,Roseville,CA,USA,20170406
+Corey Knebel,R,R,76.0,220.0,knebeco01,1991,11,26,Denton,TX,USA,20140524
+Erik Kratz,R,R,76.0,250.0,kratzer01,1980,6,15,Telford,PA,USA,20100717
+Jake Lamb,L,R,75.0,215.0,lambja01,1990,10,9,Seattle,WA,USA,20140807
+Tommy La Stella,L,R,71.0,180.0,lasteto01,1989,1,31,Westwood,NJ,USA,20140528
+Jose Leclerc,R,R,72.0,190.0,leclejo01,1993,12,19,Esperanza,Valverde,D.R.,20160706
+DJ LeMahieu,R,R,76.0,215.0,lemahdj01,1988,7,13,Visalia,CA,USA,20110530
+Sandy Leon,B,R,70.0,225.0,leonsa01,1989,3,13,Maracaibo,Zuila,Venezuela,20120514
+Francisco Lindor,B,R,71.0,190.0,lindofr01,1993,11,14,Caguas,,P.R.,20150614
+Evan Longoria,R,R,73.0,215.0,longoev01,1985,10,7,Downey,CA,USA,20080412
+Michael Lorenzen,R,R,75.0,217.0,lorenmi01,1992,1,4,Anaheim,CA,USA,20150429
+Aaron Loup,L,L,71.0,210.0,loupaa01,1987,12,19,Raceland,LA,USA,20120714
+Jed Lowrie,B,R,72.0,180.0,lowrije01,1984,4,17,Salem,OR,USA,20080415
+Jonathan Lucroy,R,R,72.0,200.0,lucrojo01,1986,6,13,Eustis,FL,USA,20100521
+Seth Lugo,R,R,76.0,225.0,lugose01,1989,11,17,Shreveport,LA,USA,20160701
+Dixon Machado,R,R,73.0,190.0,machadi01,1992,2,22,San Cristobal,Tachira,Venezuela,20150525
+Manny Machado,R,R,75.0,185.0,machama01,1992,7,6,Hialeah,FL,USA,20120809
+Mikie Mahtook,R,R,73.0,216.0,mahtomi01,1989,11,30,Lafayette,LA,USA,20150410
+Luke Maile,R,R,75.0,225.0,mailelu01,1991,2,6,Edgewood,KY,USA,20150901
+Martin Maldonado,R,R,72.0,230.0,maldoma01,1986,8,16,Naguabo,,P.R.,20110903
+Trey Mancini,R,R,76.0,215.0,mancitr01,1992,3,18,Winter Haven,FL,USA,20160920
+Manuel Margot,R,R,71.0,180.0,margoma01,1994,9,28,San Cristobal,San Cristobal,D.R.,20160921
+Jake Marisnick,R,R,76.0,220.0,marisja01,1991,3,30,Riverside,CA,USA,20130723
+Nick Markakis,L,L,73.0,210.0,markani01,1983,11,17,Glen Cove,NY,USA,20060403
+Jefry Marte,R,R,73.0,220.0,marteje01,1991,6,21,La Romana,La Romana,D.R.,20150705
+Ketel Marte,B,R,73.0,165.0,marteke01,1993,10,12,Nizao,Peravia,D.R.,20150731
+Starling Marte,R,R,73.0,190.0,martest01,1988,10,9,Santo Domingo,Distrito Nacional,D.R.,20120726
+J. D. Martinez,R,R,75.0,220.0,martijd02,1987,8,21,Miami,FL,USA,20110730
+Jose Martinez,R,R,78.0,215.0,martijo08,1988,7,25,La Guaira,Vargas,Venezuela,20160906
+Leonys Martin,L,R,74.0,200.0,martile01,1988,3,6,Villa Clara,Villa Clara,Cuba,20110902
+Nick Martini,L,L,71.0,205.0,martini02,1990,6,27,Crystal Lake,IL,USA,20180606
+Russell Martin,R,R,70.0,205.0,martiru01,1983,2,15,East York,ON,CAN,20060505
+Victor Martinez,B,R,74.0,235.0,martivi01,1978,12,23,Ciudad Bolivar,Bolivar,Venezuela,20020910
+Jeff Mathis,R,R,72.0,205.0,mathije01,1983,3,31,Marianna,FL,USA,20050812
+Joe Mauer,L,R,77.0,225.0,mauerjo01,1983,4,19,St. Paul,MN,USA,20040405
+Cameron Maybin,R,R,75.0,215.0,maybica01,1987,4,4,Asheville,NC,USA,20070817
+Mike Mayers,R,R,75.0,200.0,mayermi01,1991,12,6,Grove City,OH,USA,20160724
+Nomar Mazara,L,L,76.0,215.0,mazarno01,1995,4,26,Santo Domingo,Distrito Nacional,D.R.,20160410
+Brian McCann,L,R,75.0,225.0,mccanbr01,1984,2,20,Athens,GA,USA,20050610
+James McCann,R,R,75.0,225.0,mccanja02,1990,6,13,Santa Barbara,CA,USA,20140901
+Kevin McCarthy,R,R,75.0,215.0,mccarke01,1992,2,22,Rockville Centre,NY,USA,20160909
+Andrew McCutchen,R,R,71.0,195.0,mccutan01,1986,10,10,Fort Meade,FL,USA,20090604
+Jake McGee,L,L,75.0,230.0,mcgeeja01,1986,8,6,San Jose,CA,USA,20100914
+Collin McHugh,R,R,74.0,190.0,mchugco01,1987,6,19,Naperville,IL,USA,20120823
+Ryan McMahon,L,R,74.0,185.0,mcmahry01,1994,12,14,Yorba Linda,CA,USA,20170812
+Jeff McNeil,L,R,73.0,195.0,mcneije01,1992,4,8,Santa Barbara,CA,USA,20180724
+Jordy Mercer,R,R,75.0,210.0,mercejo03,1986,8,27,Taloga,OK,USA,20120529
+Whit Merrifield,R,R,72.0,195.0,merriwh01,1989,1,24,Florence,SC,USA,20160518
+Devin Mesoraco,R,R,73.0,229.0,mesorde01,1988,6,19,Punxsutawney,PA,USA,20110903
+Justin Miller,R,R,75.0,215.0,milleju02,1987,6,13,Bakersfield,CA,USA,20140418
+Juan Minaya,R,R,76.0,210.0,minayju01,1990,9,18,Maimon,Puerto Plata,D.R.,20160901
+A. J. Minter,L,L,72.0,215.0,minteaj01,1993,9,2,Tyler,TX,USA,20170823
+Yadier Molina,R,R,71.0,205.0,molinya01,1982,7,13,Bayamon,,P.R.,20040603
+Yoan Moncada,B,R,74.0,205.0,moncayo01,1995,5,27,Abreus,,Cuba,20160902
+Adalberto Mondesi,B,R,73.0,190.0,mondera02,1995,7,27,Los Angeles,CA,USA,20160726
+Kendrys Morales,B,R,73.0,225.0,moralke01,1983,6,20,Fomento,Sancti Spiritus,Cuba,20060523
+Colin Moran,L,R,76.0,205.0,moranco01,1992,10,1,Port Chester,NY,USA,20160518
+Mitch Moreland,L,L,74.0,230.0,morelmi01,1985,9,6,Amory,MS,USA,20100729
+Adam Morgan,L,L,73.0,200.0,morgaad01,1990,2,27,Tampa,FL,USA,20150621
+Reyes Moronta,R,R,71.0,241.0,moronre01,1993,1,6,Santiago,Santiago,D.R.,20170905
+Logan Morrison,L,L,75.0,245.0,morrilo01,1987,8,25,Kansas City,MO,USA,20100727
+Mike Moustakas,L,R,72.0,225.0,moustmi01,1988,9,11,Los Angeles,CA,USA,20110610
+Max Muncy,L,R,72.0,210.0,muncyma01,1990,8,25,Midland,TX,USA,20150425
+Yairo Munoz,R,R,73.0,201.0,munozya01,1995,1,23,Nagua,Sanchez,D.R.,20180329
+Daniel Murphy,L,R,73.0,221.0,murphda08,1985,4,1,Jacksonville,FL,USA,20080802
+J. R. Murphy,R,R,71.0,205.0,murphjr01,1991,5,13,Bradenton,FL,USA,20130902
+Wil Myers,R,R,75.0,205.0,myerswi01,1990,12,10,Thomasville,NC,USA,20130618
+Tyler Naquin,L,R,74.0,195.0,naquity01,1991,4,24,Spring,TX,USA,20160405
+Omar Narvaez,L,R,71.0,220.0,narvaom01,1992,2,10,Maracay,Aragua,Venezuela,20160717
+Hector Neris,R,R,74.0,215.0,nerishe01,1989,6,14,Villa Altagracia,San Cristobal,D.R.,20140805
+Brandon Nimmo,L,R,75.0,207.0,nimmobr01,1993,3,27,Cheyenne,WY,USA,20160626
+Bud Norris,R,R,72.0,215.0,norribu01,1985,3,2,Greenbrae,CA,USA,20090729
+Eduardo Nunez,R,R,72.0,195.0,nunezed02,1987,6,15,Santo Domingo,Distrito Nacional,D.R.,20100819
+Renato Nunez,R,R,73.0,220.0,nunezre01,1994,4,4,Valencia,Carabobo,Venezuela,20160912
+Scott Oberg,R,R,74.0,205.0,obergsc01,1990,3,13,Tewksbury,MA,USA,20150414
+Rougned Odor,L,R,71.0,195.0,odorro01,1994,2,3,Maracaibo,Zulia,Venezuela,20140508
+Shohei Ohtani,L,R,76.0,200.0,ohtansh01,1994,7,5,Oshu,Iwate,Japan,20180329
+Matt Olson,L,R,77.0,230.0,olsonma02,1994,3,29,Atlanta,GA,USA,20160912
+Tyler O'Neill,R,R,71.0,210.0,oneilty01,1995,6,22,Burnaby,BC,CAN,20180419
+Jose Osuna,R,R,74.0,240.0,osunajo01,1992,12,12,Trujillo,Trujillo,Venezuela,20170418
+Dan Otero,R,R,75.0,205.0,oteroda01,1985,2,19,Miami,FL,USA,20120407
+Adam Ottavino,B,R,77.0,220.0,ottavad01,1985,11,22,New York,NY,USA,20100529
+Chris Owings,R,R,70.0,185.0,owingch01,1991,8,12,Charleston,SC,USA,20130903
+Marcell Ozuna,R,R,73.0,225.0,ozunama01,1990,11,12,Santo Domingo,Distrito Nacional,D.R.,20130430
+Emilio Pagan,L,R,75.0,210.0,paganem01,1991,5,7,Simpsonville,SC,USA,20170503
+Daniel Palka,L,L,74.0,220.0,palkada01,1991,10,28,Greenville,SC,USA,20180425
+Joe Panik,L,R,73.0,200.0,panikjo01,1990,10,30,Yonkers,NY,USA,20140522
+Blake Parker,R,R,75.0,225.0,parkebl01,1985,6,19,Fayetteville,AR,USA,20120517
+Gerardo Parra,L,L,71.0,210.0,parrage01,1987,5,6,Santa Barbara,Zulia,Venezuela,20090513
+James Pazos,R,L,74.0,235.0,pazosja01,1991,5,5,Gilbert,AZ,USA,20150905
+Brad Peacock,R,R,73.0,210.0,peacobr01,1988,2,2,Palm Beach,FL,USA,20110906
+Steve Pearce,R,R,71.0,200.0,pearcst01,1983,4,13,Lakeland,FL,USA,20070901
+Joc Pederson,L,L,73.0,220.0,pederjo01,1992,4,21,Palo Alto,CA,USA,20140901
+Francisco Pena,R,R,74.0,230.0,penafr01,1989,10,12,Santiago,Santiago,D.R.,20140520
+Hunter Pence,R,R,76.0,230.0,pencehu01,1983,4,13,Fort Worth,TX,USA,20070428
+David Peralta,L,L,73.0,210.0,peralda01,1987,8,14,Valencia,Carabobo,Venezuela,20140601
+Wandy Peralta,L,L,72.0,220.0,peralwa01,1991,7,27,San Francisco de Macoris,Duarte,D.R.,20160904
+Jose Peraza,R,R,72.0,196.0,perazjo01,1994,4,30,Barinas,Barinas,Venezuela,20150810
+Hernan Perez,R,R,73.0,215.0,perezhe01,1991,3,26,Villa de Cura,Aragua,Venezuela,20120609
+Oliver Perez,L,L,75.0,225.0,perezol01,1981,8,15,Culiacan,Sinaloa,Mexico,20020616
+Roberto Perez,R,R,71.0,220.0,perezro02,1988,12,23,Mayaguez,,P.R.,20140710
+Salvador Perez,R,R,76.0,240.0,perezsa02,1990,5,10,Valencia,Carabobo,Venezuela,20110810
+Jace Peterson,L,R,72.0,215.0,peterja01,1990,5,9,Lake Charles,LA,USA,20140425
+Yusmeiro Petit,R,R,73.0,255.0,petityu01,1984,11,22,Maracaibo,Zulia,Venezuela,20060514
+Tommy Pham,R,R,73.0,210.0,phamth01,1988,3,8,Las Vegas,NV,USA,20140909
+Kevin Pillar,R,R,72.0,205.0,pillake01,1989,1,4,West Hills,CA,USA,20130814
+Manny Pina,R,R,72.0,215.0,pinama01,1987,6,5,Barquisimeto,Lara,Venezuela,20110803
+Chad Pinder,R,R,74.0,195.0,pindech01,1992,3,29,Richmond,VA,USA,20160820
+Jose Pirela,R,R,72.0,220.0,pireljo01,1989,11,21,Valera,Trujillo,Venezuela,20140922
+Stephen Piscotty,R,R,75.0,210.0,piscost01,1991,1,14,Pleasanton,CA,USA,20150721
+Kevin Plawecki,R,R,74.0,210.0,plaweke01,1991,2,26,Hinsdale,IL,USA,20150421
+Gregory Polanco,L,L,77.0,235.0,polangr01,1991,9,14,Santo Domingo,Distrito Nacional,D.R.,20140610
+Jorge Polanco,B,R,71.0,200.0,polanjo01,1993,7,5,San Pedro de Macoris,San Pedro de Macoris,D.R.,20140626
+A. J. Pollock,R,R,73.0,195.0,polloaj01,1987,12,5,Hebron,CT,USA,20120418
+Buster Posey,R,R,73.0,210.0,poseybu01,1987,3,27,Leesburg,GA,USA,20090911
+Martin Prado,R,R,72.0,215.0,pradoma01,1983,10,27,Maracay,Aragua,Venezuela,20060423
+Ryan Pressly,R,R,75.0,210.0,pressry01,1988,12,15,Dallas,TX,USA,20130404
+Jurickson Profar,B,R,72.0,190.0,profaju01,1993,2,20,Willemstad,,Curacao,20120902
+Yasiel Puig,R,R,74.0,240.0,puigya01,1990,12,7,Cienfuegos,Cienfuegos,Cuba,20130603
+Albert Pujols,R,R,75.0,240.0,pujolal01,1980,1,16,Santo Domingo,Distrito Nacional,D.R.,20010402
+Roman Quinn,B,R,70.0,170.0,quinnro01,1993,5,14,Port St. Joe,FL,USA,20160911
+Jose Ramirez,B,R,69.0,165.0,ramirjo01,1992,9,17,Bani,Peravia,D.R.,20130901
+Noe Ramirez,R,R,75.0,195.0,ramirno01,1989,12,22,Los Angeles,CA,USA,20150703
+Edubray Ramos,R,R,72.0,160.0,ramosed02,1992,12,19,Caracas,Distrito Federal,Venezuela,20160624
+Wilson Ramos,R,R,73.0,245.0,ramoswi01,1987,8,10,Valencia,Carabobo,Venezuela,20100502
+J. T. Realmuto,R,R,73.0,210.0,realmjt01,1991,3,18,Del City,OK,USA,20140605
+Josh Reddick,L,R,74.0,195.0,reddijo01,1987,2,19,Savannah,GA,USA,20090731
+Addison Reed,L,R,76.0,230.0,reedad01,1988,12,27,Montclair,CA,USA,20110904
+Anthony Rendon,R,R,73.0,200.0,rendoan01,1990,6,6,Houston,TX,USA,20130421
+Hunter Renfroe,R,R,73.0,220.0,renfrhu01,1992,1,28,Crystal Springs,MS,USA,20160921
+Franmil Reyes,R,R,77.0,275.0,reyesfr01,1997,7,7,Sabana Grande de Palenque,San Cristobal,D.R.,20180514
+Jose Reyes,B,R,72.0,195.0,reyesjo01,1983,6,11,Santiago,Santiago,D.R.,20030610
+Victor Reyes,B,R,77.0,194.0,reyesvi01,1994,10,5,Barcelona,Anzoategui,Venezuela,20180401
+Mark Reynolds,R,R,74.0,220.0,reynoma01,1983,8,3,Pikeville,KY,USA,20070516
+Joey Rickard,R,L,73.0,185.0,rickajo01,1991,5,21,Las Vegas,NV,USA,20160404
+JT Riddle,L,R,73.0,180.0,riddljt01,1991,10,12,Frankfort,KY,USA,20170411
+Felipe Vazquez,L,L,74.0,225.0,riverfe01,1991,7,5,San Felipe,Yaracuy,Venezuela,20150417
+Yadiel Rivera,R,R,75.0,185.0,riverya01,1992,5,2,Caguas,,P.R.,20150922
+Anthony Rizzo,L,L,75.0,240.0,rizzoan01,1989,8,8,Fort Lauderdale,FL,USA,20110609
+David Robertson,R,R,71.0,195.0,roberda08,1985,4,9,Birmingham,AL,USA,20080629
+Daniel Robertson,R,R,73.0,205.0,roberda10,1994,3,22,Upland,CA,USA,20170404
+Richard Rodriguez,R,R,76.0,230.0,rodriri05,1990,3,4,Santiago,Santiago,D.R.,20170902
+Ronny Rodriguez,R,R,72.0,170.0,rodriro03,1992,4,17,Santiago,Santiago,D.R.,20180531
+Sean Rodriguez,R,R,72.0,200.0,rodrise01,1985,4,26,Miami,FL,USA,20080419
+Chaz Roe,R,R,77.0,190.0,roech01,1986,10,9,Steubenville,OH,USA,20130701
+Taylor Rogers,L,L,75.0,170.0,rogerta01,1990,12,17,Littleton,CO,USA,20160414
+Miguel Rojas,R,R,71.0,195.0,rojasmi02,1989,2,24,Los Teques,Miranda,Venezuela,20140606
+Andrew Romine,B,R,73.0,200.0,rominan01,1985,12,24,Winter Haven,FL,USA,20100924
+Austin Romine,R,R,73.0,220.0,rominau01,1988,11,22,Lake Forest,CA,USA,20110911
+Sergio Romo,R,R,71.0,185.0,romose01,1983,3,4,Brawley,CA,USA,20080626
+Hector Rondon,R,R,75.0,230.0,rondohe01,1988,2,26,Guatire,Miranda,Venezuela,20130403
+Amed Rosario,R,R,74.0,189.0,rosaram01,1995,11,20,Santo Domingo Centro,Distrito Nacional,D.R.,20170801
+Eddie Rosario,L,R,73.0,180.0,rosared01,1991,9,28,Guayama,,P.R.,20150506
+Ryan Rua,R,R,74.0,205.0,ruary01,1990,3,11,Amherst,OH,USA,20140829
+Addison Russell,R,R,72.0,200.0,russead02,1994,1,23,Pensacola,FL,USA,20150421
+Tyler Saladino,R,R,72.0,200.0,saladty01,1989,7,20,San Diego,CA,USA,20150710
+Carlos Sanchez,B,R,71.0,185.0,sanchca01,1992,6,29,Maracay,Aragua,Venezuela,20140713
+Gary Sanchez,R,R,74.0,230.0,sanchga02,1992,12,2,Santo Domingo,Distrito Nacional,D.R.,20151003
+Pablo Sandoval,B,R,71.0,268.0,sandopa01,1986,8,11,Puerto Cabello,Carabobo,Venezuela,20080814
+Miguel Sano,R,R,76.0,260.0,sanomi01,1993,5,11,San Pedro de Macoris,San Pedro de Macoris,D.R.,20150702
+Carlos Santana,B,R,71.0,210.0,santaca01,1986,4,8,Santo Domingo,Distrito Nacional,D.R.,20100611
+Domingo Santana,R,R,77.0,220.0,santado01,1992,8,5,Santo Domingo,Distrito Nacional,D.R.,20140701
+Edgar Santana,R,R,74.0,190.0,santaed01,1991,10,16,Puerto Plata,Puerto Plata,D.R.,20170610
+Scott Schebler,L,R,72.0,228.0,schebsc01,1990,10,6,Cedar Rapids,IA,USA,20150605
+Jonathan Schoop,R,R,73.0,225.0,schoojo01,1991,10,16,Willemstad,,Curacao,20130925
+Kyle Schwarber,L,R,72.0,235.0,schwaky01,1993,3,5,Middletown,OH,USA,20150616
+Tanner Scott,R,L,74.0,220.0,scottta01,1994,7,22,Mogadore,OH,USA,20170920
+Kyle Seager,L,R,72.0,210.0,seageky01,1987,11,3,Charlotte,NC,USA,20110707
+Jean Segura,R,R,70.0,205.0,segurje01,1990,3,17,San Juan,San Juan,D.R.,20120724
+Marcus Semien,R,R,72.0,195.0,semiema01,1990,9,17,San Francisco,CA,USA,20130904
+Pedro Severino,R,R,73.0,219.0,severpe01,1993,7,20,Bonao,Monsenor Nouel,D.R.,20150920
+Bryan Shaw,B,R,73.0,220.0,shawbr01,1987,11,8,Livermore,CA,USA,20110610
+Travis Shaw,L,R,76.0,230.0,shawtr01,1990,4,16,Washington Court House,OH,USA,20150508
+JB Shuck,L,L,71.0,195.0,shuckja01,1987,6,18,Westerville,OH,USA,20110805
+Magneuris Sierra,L,L,71.0,160.0,sierrma01,1996,4,7,San Cristobal,San Cristobal,D.R.,20170507
+Andrelton Simmons,R,R,74.0,195.0,simmoan01,1989,9,4,Mundo Nobo,,Curacao,20120602
+Tony Sipp,L,L,72.0,190.0,sippto01,1983,7,12,Pascagoula,MS,USA,20090422
+Chance Sisco,L,R,74.0,195.0,siscoch01,1995,2,24,Corona,CA,USA,20170902
+Austin Slater,R,R,74.0,197.0,slateau01,1992,12,13,Jacksonville,FL,USA,20170602
+Dominic Smith,L,L,72.0,239.0,smithdo02,1995,6,15,Los Angeles,CA,USA,20170811
+Joe Smith,R,R,74.0,205.0,smithjo05,1984,3,22,Cincinnati,OH,USA,20070401
+Kevan Smith,R,R,76.0,230.0,smithke04,1988,6,28,Pittsburgh,PA,USA,20160901
+Mallex Smith,L,R,70.0,180.0,smithma05,1993,5,6,Tallahassee,FL,USA,20160411
+Will Smith,R,L,77.0,248.0,smithwi04,1989,7,10,Newnan,GA,USA,20120523
+Justin Smoak,B,L,76.0,220.0,smoakju01,1986,12,5,Goose Creek,SC,USA,20100423
+Eric Sogard,L,R,69.0,180.0,sogarer01,1986,5,22,Phoenix,AZ,USA,20100914
+Yangervis Solarte,B,R,71.0,205.0,solarya01,1987,7,3,Valencia,Carabobo,Venezuela,20140402
+Jorge Soler,R,R,76.0,230.0,solerjo01,1992,2,25,La Habana,La Habana,Cuba,20140827
+Sammy Solis,R,L,77.0,251.0,solissa01,1988,8,10,Minneapolis,MN,USA,20150430
+Juan Soto,L,L,73.0,185.0,sotoju01,1998,10,25,Santo Domingo,Distrito Nacional,D.R.,20180520
+Steven Souza,R,R,76.0,225.0,souzast01,1989,4,24,Everett,WA,USA,20140413
+Denard Span,L,L,72.0,210.0,spande01,1984,2,27,Tampa,FL,USA,20080406
+Cory Spangenberg,L,R,72.0,195.0,spangco01,1991,3,16,Clarks Summit,PA,USA,20140901
+George Springer,R,R,75.0,215.0,springe01,1989,9,19,New Britain,CT,USA,20140416
+Craig Stammen,R,R,76.0,230.0,stammcr01,1984,3,9,North Star,OH,USA,20090521
+Ryne Stanek,R,R,76.0,215.0,stanery01,1991,7,26,St. Louis,MO,USA,20170514
+Giancarlo Stanton,R,R,78.0,245.0,stantmi03,1989,11,8,Panorama City,CA,USA,20100608
+Max Stassi,R,R,70.0,200.0,stassma01,1991,3,15,Woodland,CA,USA,20130820
+Drew Steckenrider,R,R,77.0,215.0,steckdr01,1991,1,10,Atlanta,GA,USA,20170524
+Andrew Stevenson,L,L,72.0,192.0,stevean01,1994,6,1,Lafayette,LA,USA,20170723
+Trevor Story,R,R,73.0,210.0,storytr01,1992,11,15,Irving,TX,USA,20160404
+Pedro Strop,R,R,73.0,220.0,stroppe01,1985,6,13,San Cristobal,San Cristobal,D.R.,20090828
+Daniel Stumpf,L,L,74.0,208.0,stumpda01,1991,1,4,Humble,TX,USA,20160407
+Eugenio Suarez,R,R,71.0,213.0,suareeu01,1991,7,18,Puerto Ordaz,Bolivar,Venezuela,20140604
+Jesus Sucre,R,R,72.0,200.0,sucreje01,1988,4,30,Cumana,Sucre,Venezuela,20130524
+Kurt Suzuki,R,R,71.0,210.0,suzukku01,1983,10,4,Wailuku,HI,USA,20070612
+Dansby Swanson,R,R,73.0,190.0,swansda01,1994,2,11,Kennesaw,GA,USA,20160817
+Blake Swihart,B,R,73.0,200.0,swihabl01,1992,4,3,Bedford,TX,USA,20150502
+Matt Szczur,R,R,72.0,200.0,szczuma01,1989,7,20,Cape May,NJ,USA,20140817
+Chris Taylor,R,R,73.0,195.0,tayloch03,1990,8,29,Virginia Beach,VA,USA,20140724
+Michael Taylor,R,R,76.0,212.0,taylomi02,1991,3,26,Fort Lauderdale,FL,USA,20140812
+Ryan Tepera,R,R,74.0,195.0,teperry01,1987,11,3,Houston,TX,USA,20150510
+Eric Thames,L,R,72.0,210.0,thameer01,1986,11,10,Santa Clara,CA,USA,20110518
+Carlos Tocci,R,R,74.0,160.0,toccica01,1995,8,23,Maracay,Aragua,Venezuela,20180331
+Kelby Tomlinson,R,R,74.0,171.0,tomlike01,1990,6,16,Chickasha,OK,USA,20150803
+Gleyber Torres,R,R,73.0,200.0,torregl01,1996,12,13,Caracas,Distrito Federal,Venezuela,20180422
+Devon Travis,R,R,69.0,190.0,travide01,1991,2,21,West Palm Beach,FL,USA,20150406
+Blake Treinen,R,R,77.0,225.0,treinbl01,1988,6,30,Wichita,KS,USA,20140412
+Lou Trivino,R,R,77.0,225.0,trivilo01,1991,10,1,Green Lane,PA,USA,20180417
+Mike Trout,R,R,74.0,235.0,troutmi01,1991,8,7,Vineland,NJ,USA,20110708
+Mark Trumbo,R,R,76.0,225.0,trumbma01,1986,1,16,Anaheim,CA,USA,20100911
+Preston Tucker,L,L,72.0,210.0,tuckepr01,1990,7,6,Tampa,FL,USA,20150507
+Justin Turner,R,R,71.0,205.0,turneju01,1984,11,23,Long Beach,CA,USA,20090908
+Trea Turner,R,R,74.0,185.0,turnetr01,1993,6,30,Boynton Beach,FL,USA,20150821
+Justin Upton,R,R,74.0,205.0,uptonju01,1987,8,25,Norfolk,VA,USA,20070802
+Chase Utley,L,R,73.0,195.0,utleych01,1978,12,17,Pasadena,CA,USA,20030404
+Pat Valaika,R,R,71.0,200.0,valaipa01,1992,9,9,Valencia,CA,USA,20160906
+Luis Valbuena,L,R,70.0,215.0,valbulu01,1985,11,30,Caja Seca,Zulia,Venezuela,20080902
+Danny Valencia,R,R,74.0,210.0,valenda01,1984,9,19,Miami,FL,USA,20100603
+Christian Vazquez,R,R,69.0,195.0,vazquch01,1990,8,21,Bayamon,,P.R.,20140709
+Christian Villanueva,R,R,71.0,210.0,villach01,1991,6,19,Guadalajara,Jalisco,Mexico,20170918
+Jonathan Villar,B,R,73.0,215.0,villajo01,1991,5,2,La Vega,La Vega,D.R.,20130722
+Nick Vincent,R,R,72.0,185.0,vinceni01,1986,7,12,Poway,CA,USA,20120626
+Joey Votto,L,R,74.0,220.0,vottojo01,1983,9,10,Toronto,ON,CAN,20070904
+Neil Walker,B,R,75.0,210.0,walkene01,1985,9,10,Pittsburgh,PA,USA,20090901
+Tony Watson,L,L,75.0,218.0,watsoto01,1985,5,30,Sioux City,IA,USA,20110608
+Joey Wendle,L,R,73.0,190.0,wendljo01,1990,4,26,Wilmington,DE,USA,20160831
+Tyler White,R,R,71.0,225.0,whitety01,1990,10,29,Mooresboro,NC,USA,20160405
+Matt Wieters,B,R,77.0,235.0,wietema01,1986,5,21,Goose Creek,SC,USA,20090529
+Mason Williams,L,R,73.0,195.0,willima07,1991,8,21,Pawtucket,RI,USA,20150612
+Nick Williams,L,L,75.0,195.0,willini01,1993,9,8,Galveston,TX,USA,20170630
+Taylor Williams,B,R,71.0,195.0,willita01,1991,7,21,Vancouver,WA,USA,20170906
+Alex Wilson,R,R,72.0,227.0,wilsoal01,1986,11,3,Dhahran,Eastern Province,Saudi Arabia,20130411
+Justin Wilson,L,L,74.0,205.0,wilsoju10,1987,8,18,Anaheim,CA,USA,20120820
+Jesse Winker,L,L,75.0,215.0,winkeje01,1993,8,17,Buffalo,NY,USA,20170414
+Dan Winkler,R,R,75.0,205.0,winklda01,1990,2,2,Effingham,IL,USA,20150921
+Tony Wolters,L,R,70.0,200.0,wolteto01,1992,6,9,Vista,CA,USA,20160405
+Kolten Wong,L,R,69.0,185.0,wongko01,1990,10,10,Hilo,HI,USA,20130816
+Kirby Yates,L,R,70.0,210.0,yateski01,1987,3,25,Lihue,HI,USA,20140607
+Christian Yelich,L,R,75.0,195.0,yelicch01,1991,12,5,Thousand Oaks,CA,USA,20130723
+Chris Young,R,R,74.0,200.0,youngch04,1983,9,5,Houston,TX,USA,20060818
+Brad Ziegler,R,R,76.0,220.0,zieglbr01,1979,10,10,Pratt,KS,USA,20080531
+Ryan Zimmerman,R,R,75.0,215.0,zimmery01,1984,9,28,Washington,NC,USA,20050901
+Ben Zobrist,B,R,75.0,210.0,zobribe01,1981,5,26,Eureka,IL,USA,20060801
+Mike Zunino,R,R,74.0,220.0,zuninmi01,1991,3,25,Cape Coral,FL,USA,20130612
+Jason Adam,R,R,76.0,225.0,adamja01,1991,8,4,Overland Park,KS,USA,20180505
+Matt Albers,L,R,73.0,225.0,alberma01,1983,1,20,Houston,TX,USA,20060725
+Victor Alcantara,R,R,74.0,190.0,alcanvi01,1993,4,3,Santo Domingo,Distrito Nacional,D.R.,20170905
+Dan Altavilla,R,R,71.0,200.0,altavda01,1992,9,8,McKeesport,PA,USA,20160827
+Chase Anderson,R,R,73.0,200.0,anderch01,1987,11,30,Wichita Falls,TX,USA,20140511
+Tyler Anderson,L,L,76.0,210.0,anderty01,1989,12,30,Las Vegas,NV,USA,20160612
+Matt Andriese,R,R,74.0,225.0,andrima01,1989,8,28,Redlands,CA,USA,20150410
+Pedro Araujo,R,R,75.0,215.0,araujpe01,1993,7,2,San Cristobal,San Cristobal,D.R.,20180331
+Jake Arrieta,R,R,76.0,225.0,arrieja01,1986,3,6,Farmington,MO,USA,20100610
+John Axford,R,R,77.0,220.0,axforjo01,1983,4,1,Simcoe,ON,CAN,20090915
+Homer Bailey,R,R,76.0,223.0,baileho02,1986,5,3,La Grange,TX,USA,20070608
+Danny Barnes,L,R,73.0,195.0,barneda02,1989,10,21,Manhasset,NY,USA,20160802
+Jacob Barnes,R,R,74.0,220.0,barneja01,1990,4,14,St. Petersburg,FL,USA,20160603
+Tony Barnette,R,R,73.0,190.0,barneto01,1983,11,9,Anchorage,AK,USA,20160405
+Jaime Barria,R,R,73.0,210.0,barrija01,1996,7,18,Panama,Panama,Panama,20180411
+Tyler Bashlor,R,R,72.0,195.0,bashlty01,1993,4,16,Springfield,GA,USA,20180625
+Trevor Bauer,R,R,73.0,190.0,bauertr01,1991,1,17,North Hollywood,CA,USA,20120628
+Matt Belisle,R,R,75.0,230.0,belisma01,1980,6,6,Austin,TX,USA,20030907
+Jose Berrios,R,R,72.0,185.0,berrijo01,1994,5,27,Bayamon,,P.R.,20160427
+Chad Bettis,R,R,73.0,200.0,bettich01,1989,4,26,Lubbock,TX,USA,20130801
+Shane Bieber,R,R,75.0,195.0,biebesh01,1995,5,31,Orange,CA,USA,20180531
+Ray Black,R,R,77.0,225.0,blackra01,1990,6,26,Wilkes-Barre,PA,USA,20180708
+Richard Bleier,L,L,75.0,215.0,bleieri01,1987,4,16,Davie,FL,USA,20160530
+Matthew Bowman,R,R,72.0,175.0,bowmama01,1991,5,31,Chevy Chase,MD,USA,20160406
+Matt Boyd,L,L,75.0,234.0,boydma01,1991,2,2,Mercer Island,WA,USA,20150627
+Blaine Boyer,R,R,75.0,235.0,boyerbl01,1981,7,11,Atlanta,GA,USA,20050612
+Brad Brach,R,R,78.0,215.0,brachbr01,1986,4,12,Freehold,NJ,USA,20110831
+Silvino Bracho,R,R,70.0,190.0,brachsi01,1992,7,17,Maracaibo,Zulia,Venezuela,20150830
+Chase Bradford,R,R,73.0,225.0,bradfch02,1989,8,5,Las Vegas,NV,USA,20170625
+Ryan Brasier,R,R,72.0,225.0,brasiry01,1987,8,26,Wichita Falls,TX,USA,20130502
+Steven Brault,L,L,72.0,195.0,braulst01,1992,4,29,La Mesa,CA,USA,20160705
+John Brebbia,L,R,73.0,185.0,brebbjo01,1990,5,30,Sharon,MA,USA,20170528
+Austin Brice,R,R,76.0,235.0,briceau01,1992,6,19,Hong Kong,,Hong Kong,20160812
+Zach Britton,L,L,75.0,195.0,brittza01,1987,12,22,Panorama City,CA,USA,20110403
+Walker Buehler,R,R,74.0,175.0,buehlwa01,1994,7,28,Lexington,KY,USA,20170907
+Madison Bumgarner,R,L,76.0,242.0,bumgama01,1989,8,1,Hickory,NC,USA,20090908
+Aaron Bummer,L,L,75.0,200.0,bummeaa01,1993,9,21,Valencia,CA,USA,20170727
+Dylan Bundy,B,R,73.0,200.0,bundydy01,1992,11,15,Tulsa,OK,USA,20120923
+Corbin Burnes,R,R,75.0,205.0,burneco01,1994,10,22,Bakersfield,CA,USA,20180710
+Alan Busenitz,R,R,73.0,180.0,busenal01,1990,8,22,Watkinsville,GA,USA,20170617
+Matt Bush,R,R,69.0,180.0,bushma01,1986,2,8,San Diego,CA,USA,20160513
+Eddie Butler,R,R,74.0,180.0,butleed01,1991,3,13,Chesapeake,VA,USA,20140606
+Trevor Cahill,R,R,76.0,240.0,cahiltr01,1988,3,1,Oceanside,CA,USA,20090407
+Carlos Carrasco,R,R,75.0,212.0,carraca01,1987,3,21,Barquisimeto,Lara,Venezuela,20090901
+Andrew Cashner,R,R,78.0,235.0,cashnan01,1986,9,11,Conroe,TX,USA,20100531
+Diego Castillo,R,R,75.0,240.0,castidi01,1994,1,18,Cabrera,Maria Trinidad Sanchez,D.R.,20180606
+Jose Castillo,L,L,77.0,246.0,castijo03,1996,1,10,Valencia,Carabobo,Venezuela,20180602
+Luis Castillo,R,R,74.0,190.0,castilu02,1992,12,12,Bani,Peravia,D.R.,20170623
+Brett Cecil,R,L,75.0,235.0,cecilbr01,1986,7,2,Dunkirk,MD,USA,20090505
+Xavier Cedeno,L,L,71.0,210.0,cedenxa01,1986,8,26,Guayanilla,,P.R.,20110916
+Jhoulys Chacin,R,R,75.0,215.0,chacijh01,1988,1,7,Maracaibo,Zulia,Venezuela,20090725
+J. T. Chargois,B,R,75.0,200.0,chargjt01,1990,12,3,Sulphur,LA,USA,20160611
+Tyler Chatwood,R,R,72.0,185.0,chatwty01,1989,12,16,Redlands,CA,USA,20110411
+Jesse Chavez,R,R,74.0,175.0,chaveje01,1983,8,21,San Gabriel,CA,USA,20080827
+Wei-Yin Chen,R,L,72.0,200.0,chenwe02,1985,7,21,Kaohsiung City,,Taiwan,20120410
+Adam Cimber,R,R,76.0,180.0,cimbead01,1990,8,15,Portland,OR,USA,20180329
+Tony Cingrani,L,L,76.0,214.0,cingrto01,1989,7,5,Evergreen,IL,USA,20120909
+Mike Clevinger,R,R,76.0,210.0,clevimi01,1990,12,21,Jacksonville,FL,USA,20160518
+Alex Cobb,R,R,75.0,205.0,cobbal01,1987,10,7,Boston,MA,USA,20110501
+A. J. Cole,R,R,77.0,238.0,coleaj01,1992,1,5,Winter Springs,FL,USA,20150428
+Gerrit Cole,R,R,76.0,225.0,colege01,1990,9,8,Newport Beach,CA,USA,20130611
+Tim Collins,L,L,67.0,168.0,colliti01,1989,8,21,Worcester,MA,USA,20110331
+Alex Colome,R,R,73.0,220.0,colomal01,1988,12,31,Santo Domingo,Distrito Nacional,D.R.,20130530
+Bartolo Colon,R,R,71.0,285.0,colonba01,1973,5,24,Altamira,Puerto Plata,D.R.,19970404
+Patrick Corbin,L,L,75.0,210.0,corbipa01,1989,7,19,Clay,NY,USA,20120430
+Jimmy Cordero,R,R,76.0,222.0,cordeji01,1991,10,19,San Cristobal,San Cristobal,D.R.,20180802
+Danny Coulombe,L,L,70.0,190.0,couloda01,1989,10,26,St. Louis,MO,USA,20140916
+Dylan Covey,R,R,74.0,195.0,coveydy01,1991,8,14,Glendale,CA,USA,20170414
+Austin Davis,L,L,76.0,245.0,davisau01,1993,2,3,Scottsdale,AZ,USA,20180620
+Jacob deGrom,L,R,76.0,180.0,degroja01,1988,6,19,DeLand,FL,USA,20140515
+Jorge De La Rosa,L,L,73.0,215.0,delarjo01,1981,4,5,Monterrey,Nuevo Leon,Mexico,20040814
+Anthony DeSclafani,R,R,73.0,195.0,desclan01,1990,4,18,Freehold,NJ,USA,20140514
+Jake Diekman,L,L,76.0,200.0,diekmja01,1987,1,21,Wymore,NE,USA,20120515
+Sean Doolittle,L,L,74.0,204.0,doolise01,1986,9,26,Rapid City,SD,USA,20120605
+Brian Duensing,L,L,72.0,200.0,duensbr01,1983,2,22,Marysville,KS,USA,20090410
+Danny Duffy,L,L,75.0,205.0,duffyda01,1988,12,21,Goleta,CA,USA,20110518
+Zach Duke,L,L,74.0,210.0,dukeza01,1983,4,19,Clifton,TX,USA,20050702
+Ryan Dull,R,R,69.0,175.0,dullry01,1989,10,2,Winston-Salem,NC,USA,20150901
+Mike Dunn,L,L,72.0,215.0,dunnmi01,1985,5,23,Farmington,NM,USA,20090904
+Zach Eflin,R,R,78.0,215.0,eflinza01,1994,4,8,Orlando,FL,USA,20160614
+Roenis Elias,L,L,73.0,205.0,eliasro01,1988,8,1,Guantanamo,,Cuba,20140403
+Robbie Erlin,R,L,72.0,190.0,erlinro01,1990,10,8,Oakland,CA,USA,20130430
+Marco Estrada,R,R,72.0,180.0,estrama01,1983,7,5,Sonora,Sonora,Mexico,20080820
+Jeurys Familia,R,R,75.0,240.0,familje01,1989,10,10,Santo Domingo,Distrito Nacional,D.R.,20120904
+Luke Farrell,L,R,78.0,210.0,farrelu01,1991,6,7,Westlake,OH,USA,20170701
+Michael Feliz,R,R,76.0,240.0,felizmi01,1993,6,28,Azua,Azua,D.R.,20150531
+Caleb Ferguson,R,L,75.0,215.0,ferguca01,1996,7,2,Columbus,OH,USA,20180606
+Josh Fields,R,R,72.0,195.0,fieldjo03,1985,8,19,Athens,GA,USA,20130402
+Mike Fiers,R,R,74.0,202.0,fiersmi01,1985,6,15,Hollywood,FL,USA,20110914
+Jack Flaherty,R,R,76.0,205.0,flaheja01,1995,10,15,Burbank,CA,USA,20170901
+Dylan Floro,L,R,74.0,205.0,florody01,1990,12,27,Merced,CA,USA,20160707
+Brian Flynn,L,L,79.0,255.0,flynnbr01,1990,4,19,Tulsa,OK,USA,20130904
+Mike Foltynewicz,R,R,76.0,200.0,foltymi01,1991,10,7,Sterling,IL,USA,20140802
+Kyle Freeland,L,L,75.0,170.0,freelky01,1993,5,14,Denver,CO,USA,20170407
+Paul Fry,L,L,72.0,190.0,frypa01,1992,7,26,Pontiac,MI,USA,20180629
+Michael Fulmer,R,R,75.0,246.0,fulmemi01,1993,3,15,Oklahoma City,OK,USA,20160429
+John Gant,R,R,75.0,200.0,gantjo01,1992,8,6,Savannah,GA,USA,20160406
+Santiago Casilla,R,R,72.0,210.0,garcija01,1980,7,25,San Cristobal,San Cristobal,D.R.,20040809
+Jaime Garcia,L,L,74.0,215.0,garcija02,1986,7,8,Reynosa,Tamaulipas,Mexico,20080711
+Jarlin Garcia,L,L,75.0,210.0,garcija04,1993,1,18,Santo Domingo,Distrito Nacional,D.R.,20170414
+Yimi Garcia,R,R,73.0,220.0,garciyi01,1990,8,18,Moca,Espaillat,D.R.,20140901
+Kevin Gausman,L,R,75.0,190.0,gausmke01,1991,1,6,Centennial,CO,USA,20130523
+Sam Gaviglio,R,R,74.0,195.0,gavigsa01,1990,5,22,Ashland,OR,USA,20170511
+Cory Gearrin,R,R,73.0,205.0,gearrco01,1986,4,14,Chattanooga,TN,USA,20110425
+Domingo German,R,R,74.0,175.0,germado01,1992,8,4,San Pedro de Macoris,San Pedro de Macoris,D.R.,20170611
+Kyle Gibson,R,R,78.0,215.0,gibsoky01,1987,10,23,Greenfield,IN,USA,20130629
+Ken Giles,R,R,74.0,205.0,gileske01,1990,9,20,Albuquerque,NM,USA,20140612
+Lucas Giolito,R,R,78.0,245.0,giolilu01,1994,7,14,Santa Monica,CA,USA,20160628
+Tyler Glasnow,L,R,80.0,220.0,glasnty01,1993,8,23,Newhall,CA,USA,20160707
+Koda Glover,R,R,77.0,215.0,gloveko01,1993,4,13,Monroe,OK,USA,20160720
+Zack Godley,R,R,75.0,240.0,godleza01,1990,4,21,Bamberg,SC,USA,20150723
+Erik Goeddel,R,R,75.0,191.0,goedder01,1988,12,20,San Mateo,CA,USA,20140901
+Austin Gomber,L,L,77.0,230.0,gombeau01,1993,11,23,Winter Garden,FL,USA,20180602
+Jeanmar Gomez,R,R,75.0,215.0,gomezje01,1988,2,10,Caracas,Distrito Federal,Venezuela,20100718
+Gio Gonzalez,R,L,72.0,203.0,gonzagi01,1985,9,19,Hialeah,FL,USA,20080806
+Marco Gonzales,L,L,73.0,195.0,gonzama02,1992,2,16,Fort Collins,CO,USA,20140625
+Trevor Gott,R,R,72.0,185.0,gotttr01,1992,8,26,Lexington,KY,USA,20150614
+Brett Graves,R,R,73.0,170.0,gravebr01,1993,1,30,St. Charles,MO,USA,20180617
+Jon Gray,R,R,76.0,235.0,grayjo02,1991,11,5,Shawnee,OK,USA,20150804
+Sonny Gray,R,R,70.0,190.0,grayso01,1989,11,7,Nashville,TN,USA,20130710
+Zack Greinke,R,R,74.0,200.0,greinza01,1983,10,21,Orlando,FL,USA,20040522
+Javy Guerra,R,R,73.0,215.0,guerrja01,1985,10,31,Denton,TX,USA,20110515
+Junior Guerra,R,R,72.0,205.0,guerrju02,1985,1,16,San Felix,Bolivar,Venezuela,20150612
+Cole Hamels,L,L,76.0,205.0,hamelco01,1983,12,27,San Diego,CA,USA,20060512
+Jason Hammel,R,R,78.0,225.0,hammeja01,1982,9,2,Greenville,SC,USA,20060411
+Brad Hand,L,L,75.0,228.0,handbr01,1990,3,20,Minneapolis,MN,USA,20110607
+J. A. Happ,L,L,77.0,205.0,happja01,1982,10,19,Peru,IL,USA,20070630
+Blaine Hardy,L,L,74.0,218.0,hardybl01,1987,3,14,Seattle,WA,USA,20140616
+Donnie Hart,L,L,71.0,180.0,hartdo01,1990,9,6,Bedford,TX,USA,20160717
+Matt Harvey,R,R,76.0,215.0,harvema01,1989,3,27,New London,CT,USA,20120726
+Chris Hatcher,B,R,73.0,200.0,hatchch02,1985,1,12,Kinston,NC,USA,20100919
+Andrew Heaney,L,L,74.0,185.0,heanean01,1991,6,5,Oklahoma City,OK,USA,20140619
+Kyle Hendricks,R,R,75.0,190.0,hendrky01,1989,12,7,Newport Beach,CA,USA,20140710
+Liam Hendriks,R,R,72.0,200.0,hendrli01,1989,2,10,Perth,Western Australia,Australia,20110906
+Elieser Hernandez,R,R,72.0,210.0,hernael01,1995,5,3,Ocumare del Tuy,Miranda,Venezuela,20180510
+Felix Hernandez,R,R,75.0,225.0,hernafe02,1986,4,8,Valencia,Carabobo,Venezuela,20050804
+Kelvin Herrera,R,R,70.0,200.0,herreke01,1989,12,31,Tenares,Hermanas Mirabal,D.R.,20110921
+David Hess,R,R,74.0,180.0,hessda01,1993,7,10,Tullahoma,TN,USA,20180512
+Rich Hill,L,L,77.0,220.0,hillri01,1980,3,11,Boston,MA,USA,20050615
+Derek Holland,B,L,74.0,213.0,hollade01,1986,10,9,Newark,OH,USA,20090422
+Greg Holland,R,R,70.0,205.0,hollagr01,1985,11,20,Marion,NC,USA,20100802
+Daniel Hudson,R,R,75.0,225.0,hudsoda01,1987,3,9,Lynchburg,VA,USA,20090904
+Dakota Hudson,R,R,77.0,215.0,hudsoda02,1994,9,15,Chattanooga,TN,USA,20180728
+Luke Jackson,R,R,74.0,210.0,jackslu01,1991,8,24,Fort Lauderdale,FL,USA,20150904
+Kevin Jepsen,R,R,75.0,235.0,jepseke01,1984,7,26,Anaheim,CA,USA,20080908
+Brian Johnson,L,L,76.0,235.0,johnsbr02,1990,12,7,Lakeland,FL,USA,20150721
+Pierce Johnson,R,R,74.0,200.0,johnspi01,1991,5,10,Denver,CO,USA,20170519
+Nate Jones,R,R,77.0,220.0,jonesna01,1986,1,28,Butler,KY,USA,20120408
+Jakob Junis,R,R,74.0,225.0,junisja01,1992,9,16,Sterling,IL,USA,20170412
+Tommy Kahnle,R,R,73.0,235.0,kahnlto01,1989,8,7,Latham,NY,USA,20140403
+Keone Kela,R,R,73.0,210.0,kelake01,1993,4,16,Los Angeles,CA,USA,20150407
+Brad Keller,R,R,77.0,230.0,kellebr01,1995,7,27,Flowery Branch,GA,USA,20180329
+Shawn Kelley,R,R,74.0,237.0,kellesh01,1984,4,26,Louisville,KY,USA,20090410
+Ian Kennedy,R,R,72.0,205.0,kenneia01,1984,12,19,Huntington Beach,CA,USA,20070901
+Clayton Kershaw,L,L,76.0,228.0,kershcl01,1988,3,19,Dallas,TX,USA,20080525
+Dallas Keuchel,L,L,75.0,205.0,keuchda01,1988,1,1,Tulsa,OK,USA,20120617
+Brandon Kintzler,R,R,72.0,194.0,kintzbr01,1984,8,1,Las Vegas,NV,USA,20100910
+Andrew Kittredge,R,R,73.0,200.0,kittran01,1990,3,17,Spokane,WA,USA,20170718
+Corey Kluber,R,R,76.0,215.0,klubeco01,1986,4,10,Birmingham,AL,USA,20110901
+Adam Kolarek,L,L,75.0,205.0,kolarad01,1989,1,14,Baltimore,MD,USA,20170629
+George Kontos,R,R,75.0,225.0,kontoge01,1985,6,12,Lincolnwood,IL,USA,20110910
+Eric Lauer,R,L,75.0,205.0,lauerer01,1995,6,3,Elyria,OH,USA,20180424
+Mike Leake,R,R,70.0,170.0,leakemi01,1987,11,12,San Diego,CA,USA,20100411
+Wade LeBlanc,L,L,75.0,205.0,leblawa01,1984,8,7,Lake Charles,LA,USA,20080903
+Dominic Leone,R,R,71.0,210.0,leonedo01,1991,10,26,Norwich,CT,USA,20140406
+Jon Lester,L,L,76.0,240.0,lestejo01,1984,1,7,Tacoma,WA,USA,20060610
+Francisco Liriano,L,L,75.0,218.0,liriafr01,1983,10,26,San Cristobal,San Cristobal,D.R.,20050905
+Reynaldo Lopez,R,R,73.0,200.0,lopezre01,1994,1,4,San Pedro de Macoris,San Pedro de Macoris,D.R.,20160719
+Joey Lucchesi,L,L,77.0,204.0,lucchjo01,1993,6,6,Newark,CA,USA,20180330
+Jordan Lyles,R,R,77.0,230.0,lylesjo01,1990,10,19,Hartsville,SC,USA,20110531
+Lance Lynn,B,R,77.0,280.0,lynnla01,1987,5,12,Indianapolis,IN,USA,20110602
+Tyler Lyons,L,L,76.0,210.0,lyonsty01,1988,2,21,Lubbock,TX,USA,20130522
+Ryan Madson,L,R,78.0,234.0,madsory01,1980,8,28,Long Beach,CA,USA,20030927
+Kenta Maeda,R,R,73.0,175.0,maedake01,1988,4,11,Senboku-gun,Osaka,Japan,20160406
+Matt Magill,R,R,75.0,210.0,magilma01,1989,11,10,Simi Valley,CA,USA,20130427
+Tyler Mahle,R,R,75.0,210.0,mahlety01,1994,9,29,Newport Beach,CA,USA,20170827
+Kazuhisa Makita,R,R,70.0,181.0,makitka01,1984,11,10,Yaizu,Shizuoka,Japan,20180330
+Sean Manaea,R,L,77.0,245.0,manaese01,1992,2,1,Valparaiso,IN,USA,20160429
+German Marquez,R,R,73.0,185.0,marquge01,1995,2,22,San Felix,Bolivar,Venezuela,20160908
+Carlos Martinez,R,R,72.0,190.0,martica04,1991,9,21,Puerto Plata,Puerto Plata,D.R.,20130503
+Chris Martin,R,R,80.0,215.0,martich02,1986,6,2,Arlington,TX,USA,20140426
+Phil Maton,R,R,75.0,220.0,matonph01,1993,3,25,Paducah,KY,USA,20170611
+Steven Matz,R,L,74.0,200.0,matzst01,1991,5,29,Stony Brook,NY,USA,20150628
+Brandon Maurer,R,R,77.0,225.0,maurebr01,1990,7,3,Newport Beach,CA,USA,20130404
+Trevor May,R,R,77.0,240.0,maytr01,1989,9,23,Longview,WA,USA,20140809
+Tim Mayza,L,L,75.0,220.0,mayzati01,1992,1,15,Allentown,PA,USA,20170815
+Zach McAllister,R,R,78.0,240.0,mcallza01,1987,12,8,Peoria,IL,USA,20110707
+Lance McCullers,L,R,73.0,205.0,mcculla02,1993,10,2,Tampa,FL,USA,20150518
+T. J. McFarland,L,L,75.0,220.0,mcfartj01,1989,6,8,Palos Hills,IL,USA,20130406
+Mark Melancon,R,R,74.0,215.0,melanma01,1985,3,28,Wheat Ridge,CO,USA,20090426
+Daniel Mengden,R,R,74.0,190.0,mengdda01,1993,2,19,Houston,TX,USA,20160611
+Miles Mikolas,R,R,77.0,220.0,mikolmi01,1988,8,23,Jupiter,FL,USA,20120505
+Andrew Miller,L,L,79.0,205.0,millean01,1985,5,21,Gainesville,FL,USA,20060830
+Mike Minor,R,L,76.0,210.0,minormi01,1987,12,26,Chapel Hill,TN,USA,20100809
+Mike Montgomery,L,L,77.0,215.0,montgmi01,1989,7,1,Mission Hills,CA,USA,20150602
+Matt Moore,L,L,75.0,210.0,moorema02,1989,6,18,Fort Walton Beach,FL,USA,20110914
+Brandon Morrow,R,R,75.0,205.0,morrobr01,1984,7,26,Santa Rosa,CA,USA,20070403
+Charlie Morton,R,R,77.0,235.0,mortoch02,1983,11,12,Flemington,NJ,USA,20080614
+Gabriel Moya,L,L,72.0,175.0,moyaga01,1995,1,9,Cabimas,Zulia,Venezuela,20170912
+Peter Moylan,R,R,75.0,220.0,moylape01,1978,12,2,Attadale,Western Australia,Australia,20060412
+Harrison Musgrave,L,L,73.0,205.0,musgrha01,1992,3,3,Morgantown,WV,USA,20180423
+Pat Neshek,B,R,75.0,220.0,neshepa01,1980,9,4,Madison,WI,USA,20060707
+Dovydas Neverauskas,R,R,75.0,225.0,neverdo01,1993,1,14,Vilnius,Vilnius,Lithuania,20170424
+Sean Newcomb,L,L,77.0,255.0,newcose01,1993,6,12,Brockton,MA,USA,20170610
+Juan Nicasio,R,R,76.0,252.0,nicasju01,1986,8,31,San Francisco de Macoris,Duarte,D.R.,20110528
+Aaron Nola,R,R,74.0,195.0,nolaaa01,1993,6,4,Baton Rouge,LA,USA,20150721
+Ivan Nova,R,R,77.0,250.0,novaiv01,1987,1,12,Palenque,San Cristobal,D.R.,20100513
+Darren O'Day,R,R,76.0,220.0,odayda01,1982,10,22,Jacksonville,FL,USA,20080331
+Jake Odorizzi,R,R,74.0,190.0,odorija01,1990,3,27,Breese,IL,USA,20120923
+Seunghwan Oh,R,R,70.0,205.0,ohse01,1982,7,15,Jeongeup,North Jeolla,South Korea,20160403
+Tyler Olson,R,L,75.0,195.0,olsonty01,1989,10,2,Spokane,WA,USA,20150407
+Roberto Osuna,R,R,74.0,215.0,osunaro01,1995,2,7,Juan Jose Rios,Sinaloa,Mexico,20150408
+James Paxton,L,L,76.0,235.0,paxtoja01,1988,11,6,Ladner,BC,CAN,20130907
+Wily Peralta,R,R,73.0,255.0,peralwi01,1989,5,8,Samana,Samana,D.R.,20120422
+Martin Perez,L,L,72.0,200.0,perezma02,1991,4,4,Guanare,Portuguesa,Venezuela,20120627
+Tim Peterson,R,R,73.0,215.0,peterti01,1991,2,22,Puyallup,WA,USA,20180530
+Jake Petricka,R,R,77.0,220.0,petrija01,1988,6,5,Northfield,IL,USA,20130822
+Nick Pivetta,R,R,77.0,220.0,pivetni01,1993,2,14,Victoria,BC,CAN,20170430
+Drew Pomeranz,R,L,78.0,240.0,pomerdr01,1988,11,22,Collierville,TN,USA,20110911
+Rick Porcello,R,R,77.0,205.0,porceri01,1988,12,27,Morristown,NJ,USA,20090409
+Bobby Poyner,L,L,72.0,205.0,poynebo01,1992,12,1,West Palm Beach,FL,USA,20180331
+David Price,L,L,77.0,215.0,priceda01,1985,8,26,Murfreesboro,TN,USA,20080914
+Austin Pruitt,R,R,71.0,165.0,pruitau01,1989,8,31,The Woodlands,TX,USA,20170402
+Jose Quintana,R,L,73.0,220.0,quintjo01,1989,1,24,Arjona,Bolivar,Colombia,20120507
+Neil Ramirez,R,R,76.0,215.0,ramirne01,1989,5,25,Virginia Beach,VA,USA,20140425
+AJ Ramos,R,R,70.0,200.0,ramosaj01,1986,9,20,Lubbock,TX,USA,20120904
+Robbie Ray,L,L,74.0,195.0,rayro02,1991,10,1,Brentwood,TN,USA,20140506
+Jacob Rhame,R,R,73.0,215.0,rhameja01,1993,3,16,Atlanta,GA,USA,20170902
+Clayton Richard,L,L,77.0,240.0,richacl01,1983,9,12,Lafayette,IN,USA,20080723
+Trevor Richards,R,R,74.0,190.0,richatr01,1993,5,15,Aviston,IL,USA,20180402
+Yacksel Rios,R,R,75.0,185.0,riosya01,1993,6,27,Caguas,,P.R.,20170822
+Tanner Roark,R,R,74.0,229.0,roarkta01,1986,10,5,Wilmington,IL,USA,20130807
+Hansel Robles,R,R,71.0,185.0,robleha01,1990,8,13,Bonao,Monsenor Nouel,D.R.,20150424
+Fernando Rodney,R,R,71.0,230.0,rodnefe01,1977,3,18,Santo Domingo,Distrito Nacional,D.R.,20020504
+Carlos Rodon,L,L,75.0,235.0,rodonca01,1992,12,10,Miami,FL,USA,20150421
+Dereck Rodriguez,R,R,73.0,215.0,rodride01,1992,6,5,Arlington,TX,USA,20180529
+Eduardo Rodriguez,L,L,74.0,220.0,rodried05,1993,4,7,Valencia,Carabobo,Venezuela,20150528
+Sal Romano,L,R,77.0,270.0,romansa01,1993,10,12,Syosset,NY,USA,20170416
+Bruce Rondon,R,R,75.0,275.0,rondobr01,1990,12,9,Valencia,Carabobo,Venezuela,20130425
+Randy Rosario,L,L,73.0,200.0,rosarra01,1994,5,18,Nagua,Maria Trinidad Sanchez,D.R.,20170602
+Tyson Ross,R,R,78.0,245.0,rossty01,1987,4,22,Berkeley,CA,USA,20100407
+Drew Rucinski,R,R,74.0,190.0,rucindr01,1988,12,30,Neenah,WI,USA,20140710
+Chris Rusin,L,L,74.0,195.0,rusinch01,1986,10,22,Detroit,MI,USA,20120821
+CC Sabathia,L,L,78.0,300.0,sabatcc01,1980,7,21,Vallejo,CA,USA,20010408
+Fernando Salas,R,R,74.0,200.0,salasfe01,1985,5,30,Huatabampo,Sonora,Mexico,20100528
+Chris Sale,L,L,78.0,180.0,salech01,1989,3,30,Lakeland,FL,USA,20100806
+Aaron Sanchez,R,R,76.0,215.0,sanchaa01,1992,7,1,Barstow,CA,USA,20140723
+Anibal Sanchez,R,R,72.0,205.0,sanchan01,1984,2,27,Maracay,Aragua,Venezuela,20060625
+Hector Santiago,R,L,72.0,215.0,santihe01,1987,12,16,Newark,NJ,USA,20110706
+Warwick Saupold,R,R,74.0,223.0,saupowa01,1990,1,16,Perth,Western Australia,Australia,20160514
+Max Scherzer,R,R,75.0,215.0,scherma01,1984,7,27,St. Louis,MO,USA,20080429
+Jaime Schultz,R,R,70.0,200.0,schulja02,1991,6,20,Albany,NY,USA,20180529
+Antonio Senzatela,R,R,73.0,180.0,senzaan01,1995,1,21,Valencia,Carabobo,Venezuela,20170406
+Luis Severino,R,R,74.0,215.0,severlu01,1994,2,20,Sabana de la Mar,Hato Mayor,D.R.,20150805
+Paul Sewald,R,R,75.0,205.0,sewalpa01,1990,5,26,Las Vegas,NV,USA,20170408
+James Shields,R,R,75.0,210.0,shielja02,1981,12,20,Newhall,CA,USA,20060531
+Chasen Shreve,L,L,76.0,195.0,shrevch01,1990,7,12,Las Vegas,NV,USA,20140719
+Tyler Skaggs,L,L,76.0,200.0,skaggty01,1991,7,13,Woodland Hills,CA,USA,20120822
+Burch Smith,R,R,76.0,225.0,smithbu03,1990,4,12,San Antonio,TX,USA,20130511
+Drew Smith,R,R,74.0,190.0,smithdr01,1993,9,24,Fort Worth,TX,USA,20180623
+Blake Snell,L,L,76.0,200.0,snellbl01,1992,12,4,Seattle,WA,USA,20160423
+Joakim Soria,R,R,75.0,200.0,soriajo01,1984,5,18,Monclova,Coahuila,Mexico,20070404
+Jackson Stephens,R,R,74.0,220.0,stephja01,1994,5,11,Oxford,AL,USA,20170701
+Robert Stock,L,R,73.0,214.0,stockro01,1989,11,21,Bellevue,WA,USA,20180624
+Matt Strahm,R,L,75.0,185.0,strahma01,1991,11,12,West Fargo,ND,USA,20160731
+Dan Straily,R,R,74.0,220.0,straida01,1988,12,1,Redlands,CA,USA,20120803
+Stephen Strasburg,R,R,77.0,235.0,strasst01,1988,7,20,San Diego,CA,USA,20100608
+Chris Stratton,R,R,74.0,211.0,stratch01,1990,8,22,Tupelo,MS,USA,20160530
+Hunter Strickland,R,R,75.0,225.0,strichu01,1988,9,24,Thomaston,GA,USA,20140901
+Ross Stripling,R,R,75.0,210.0,stripro01,1989,11,23,Bluebell,PA,USA,20160408
+Andrew Suarez,L,L,72.0,187.0,suarean01,1992,9,11,Miami,FL,USA,20180411
+Wander Suero,R,R,76.0,211.0,suerowa01,1991,9,15,Sabana Larga,,D.R.,20180501
+Brent Suter,L,L,77.0,195.0,suterbr01,1989,8,29,Chicago,IL,USA,20160819
+Anthony Swarzak,R,R,76.0,215.0,swarzan01,1985,9,10,Fort Lauderdale,FL,USA,20090523
+Noah Syndergaard,L,R,78.0,240.0,syndeno01,1992,8,29,Mansfield,TX,USA,20150512
+Jameson Taillon,R,R,77.0,230.0,taillja01,1991,11,18,Lakeland,FL,USA,20160608
+Masahiro Tanaka,R,R,75.0,215.0,tanakma01,1988,11,1,Itami,Hyogo,Japan,20140404
+Junichi Tazawa,R,R,71.0,200.0,tazawju01,1986,6,6,Yokohama,Kanagawa,Japan,20090807
+Julio Teheran,R,R,74.0,205.0,teherju01,1991,1,27,Cartagena,Bolivar,Colombia,20110507
+Tyler Thornburg,R,R,71.0,190.0,thornty01,1988,9,29,Houston,TX,USA,20120619
+Josh Tomlin,R,R,73.0,190.0,tomlijo01,1984,10,19,Tyler,TX,USA,20100727
+Sam Tuivailala,R,R,75.0,225.0,tuivasa01,1992,10,19,San Mateo,CA,USA,20140909
+Jose Urena,R,R,74.0,200.0,urenajo01,1991,9,12,Santo Domingo,Distrito Nacional,D.R.,20150414
+Jason Vargas,L,L,72.0,215.0,vargaja01,1983,2,2,Apple Valley,CA,USA,20050714
+Vince Velasquez,R,R,75.0,205.0,velasvi01,1992,6,7,Montclair,CA,USA,20150610
+Hector Velazquez,R,R,72.0,180.0,velazhe01,1988,11,26,Ciudad Obregon,Sonora,Mexico,20170518
+Jonny Venters,L,L,75.0,200.0,ventejo01,1985,3,20,Pikeville,KY,USA,20100417
+Drew VerHagen,R,R,78.0,230.0,verhadr01,1990,10,22,Royse City,TX,USA,20140719
+Justin Verlander,R,R,77.0,225.0,verlaju01,1983,2,20,Manakin Sabot,VA,USA,20050704
+Arodys Vizcaino,R,R,72.0,245.0,vizcaar01,1990,11,13,Yaguate,San Cristobal,D.R.,20110810
+Chris Volstad,R,R,80.0,235.0,volstch01,1986,9,23,Palm Beach Gardens,FL,USA,20080706
+Adam Warren,R,R,73.0,224.0,warread01,1987,8,25,Birmingham,AL,USA,20120629
+Luke Weaver,R,R,74.0,170.0,weavelu01,1993,8,21,DeLand,FL,USA,20160813
+Zach Wheeler,L,R,76.0,195.0,wheelza01,1990,5,30,Smyrna,GA,USA,20130618
+Trevor Williams,R,R,75.0,230.0,willitr01,1992,4,25,San Diego,CA,USA,20160907
+Trey Wingenter,R,R,79.0,200.0,wingetr01,1994,4,15,Huntsville,AL,USA,20180807
+Nick Wittgren,R,R,74.0,210.0,wittgni01,1991,5,29,Torrance,CA,USA,20160419
+Alex Wood,R,L,76.0,215.0,woodal02,1991,1,12,Charlotte,NC,USA,20130530
+Hunter Wood,R,R,73.0,165.0,woodhu01,1993,8,12,Rogers,AR,USA,20170530
+Brandon Workman,R,R,77.0,235.0,workmbr01,1988,8,13,Arlington,TX,USA,20130710
+Mike Wright,R,R,78.0,215.0,wrighmi01,1990,1,3,Bennettsville,SC,USA,20150517
+Steven Wright,R,R,74.0,215.0,wrighst01,1984,8,30,Torrance,CA,USA,20130423
+Ryan Yarbrough,R,L,77.0,205.0,yarbrry01,1991,12,31,Lakeland,FL,USA,20180331
+Jordan Zimmermann,R,R,74.0,225.0,zimmejo02,1986,5,23,Auburndale,WI,USA,20090420
