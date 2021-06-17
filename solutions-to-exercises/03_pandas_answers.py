@@ -11,8 +11,7 @@ import numpy as np
 # PANDAS BASICS
 ###############################################################################
 
-# DATA_DIR = '/Users/nathan/fantasybook/data'
-DATA_DIR =  '/Users/nathanbraun/fantasymath/fantasybook-baseball/data'
+DATA_DIR =  './data'
 
 #######
 # 3.0.1
@@ -192,17 +191,17 @@ dfp = pd.read_csv(path.join(DATA_DIR, '2018-season', 'pitches.csv'))
 # 3.3.2
 #######
 # a
-dfp_nyy1 = dfp.loc[dfp['teamID'] == 'NYN', ['nameFirst', 'nameLast', 'G', 'ERA']]
+dfp_nyy1 = dfp.loc[dfp['teamID'] == 'NYA', ['nameFirst', 'nameLast', 'G', 'ERA']]
 dfp_nyy1.head()
 
 # b
-dfp_nyy2 = dfp.query("teamID == 'NYN'")[['nameFirst', 'nameLast', 'G', 'ERA']]
+dfp_nyy2 = dfp.query("teamID == 'NYA'")[['nameFirst', 'nameLast', 'G', 'ERA']]
 dfp_nyy2.head()
 
 #######
 # 3.3.3
 #######
-dfp_no_nyy = dfp.loc[dfp['teamID'] != 'NYN', ['nameFirst', 'nameLast', 'G', 'ERA']]
+dfp_no_nyy = dfp.loc[dfp['teamID'] != 'NYA', ['nameFirst', 'nameLast', 'G', 'ERA']]
 dfp_no_nyy.head()
 
 #######
