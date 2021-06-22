@@ -21,6 +21,9 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.5.0 (2021-06-22)
+Expanded visualization section to include scatter and line plots.
+
 ### v0.4.2 (2021-06-17)
 Fixed some scraping in book to match what was in the code (thanks Greg, Nick!)
 
