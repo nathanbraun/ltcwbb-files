@@ -7,19 +7,21 @@ from os import path
 # stored
 # on Windows it might be something like 'C:/mydir'
 
-DATA_DIR = '/Users/nathan/baseball-book/data'
+DATA_DIR = './data'
 
-###############
-# distributions
-###############
+DATA_DIR = '/Users/nathan/ltcwbb-files/data'
 
-# load data
 df = pd.read_csv(path.join(DATA_DIR, '100-game-sample', 'pitches.csv'))
 
 # let's limit our data to the most common pitches
-df = df.query("pitch_type in ('FF', 'SL', 'CH', 'FT', 'CU', 'SI', 'FC')")
+df = df.query("pitch_type in ('FF', 'SL', 'CH', 'FT', 'CU', 'SI', 'FC', 'FS', 'KC')")
 
+###############
 # summary stats
+###############
+
+# book picks up here:
+
 df['mph'].quantile(.9)
 df.query("pitch_type == 'FF'")['mph'].quantile(.9)
 df[['mph', 'spin_rate']].describe()
@@ -56,6 +58,8 @@ g = sns.displot(df, kind='kde', x='mph', col='s', row='b', hue='pitch_type',
 # load data
 games = pd.read_csv(path.join(DATA_DIR, '100-game-sample', 'games.csv'))
 
+
+# book picks up again here:
 games[['home_team', 'away_team', 'home_final_score', 'away_final_score']].head()
 
 def home_away_df(_df, location):
@@ -73,6 +77,70 @@ games_long = pd.concat([
 g = sns.displot(games_long, kind='kde', x='final_score', hue='location',
                 fill=True, aspect=1.75)
 
+#################################
+# relationships between variables
+#################################
+
+# speed vs spin
+g = sns.relplot(x='mph', y='spin_rate', data=df, s=25)
+
+# speed vs spin colored by pitch type
+g = sns.relplot(x='mph', y='spin_rate', hue='pitch_type', data=df, s=25)
+
+# speed vs spin separated out onto columns
+g = sns.relplot(x='mph', y='spin_rate', col='pitch_type', hue='pitch_type',
+                data=df, s=25, col_wrap=3)
+
+# rows
+g = sns.relplot(x='mph', y='spin_rate', hue='pitch_type', col='s', row='b',
+                data=df, s=25)
+
+# displot version
+g = sns.displot(x='mph', y='spin_rate', col='pitch_type', hue='pitch_type',
+                data=df, col_wrap=3)
+
+# contour plots
+g = sns.displot(x='mph', y='spin_rate', col='pitch_type', hue='pitch_type',
+                kind='kde', data=df, col_wrap=3)
+
+#############
+# correlation
+#############
+df[['spin_rate', 'mph', 'end_speed', 's']].corr()
+
+# scatter plot of 0.55 correlation
+g = sns.displot(x='mph', y='spin_rate', data=df)
+
+# scatter plot of 0.98 correlation
+g = sns.displot(x='mph', y='end_speed', data=df)
+
+########################
+# line plots with python
+########################
+
+# speed by inning
+g = sns.relplot(x='i', y='mph', kind='line', hue='pitch_type',
+                data=df.query("i <=9"))
+
+df.loc[(df['pitch_type'] == 'CU') & (df['i'] == 2),
+       ['pitcher', 'batter', 'i', 'pitch_type', 'mph']].sample(5)
+
+# max points by inning and pitch type
+max_speed_by_pitch_type_i = (df
+                             .query("i <=9")
+                             .groupby(['pitch_type', 'i'], as_index=False)
+                             ['mph'].max())
+
+g = sns.relplot(x='i', y='mph', kind='line', hue='pitch_type',
+                style='pitch_type', data=max_speed_by_pitch_type_i)
+
+# speed by player and week
+top20_pitchers = df['pitcher'].value_counts().head(20).reset_index()
+top20_pitchers.columns = ['pitcher', 'n']
+
+g = sns.relplot(x='i', y='mph', kind='line', hue='pitch_type', col='pitcher',
+                col_wrap=4, height=2, data=pd.merge(df.query("i <=9"),
+                                                    top20_pitchers))
 ##############
 # plot options
 ##############
@@ -97,67 +165,3 @@ g.set_ylabels('Density')
 # saving
 g.savefig('speed_by_type_strike.png')
 
-#################################
-# relationships between variables
-#################################
-
-# NOTE: not currently in book, coming soon
-
-# speed vs spin
-g = sns.relplot(x='mph', y='spin_rate', data=df, s=25)
-
-g.set(ylim=(0, 3500), xlim=(65,105))
-g.fig.subplots_adjust(top=0.9)
-g.fig.suptitle('Pitch Speed vs Spin')
-
-# speed vs spin colored yb pitch type
-g = sns.relplot(x='mph', y='spin_rate', hue='pitch_type', data=df, s=25)
-
-g.set(ylim=(0, 3500), xlim=(65,105))
-g.fig.subplots_adjust(top=0.9)
-g.fig.suptitle('Pitch Speed vs Spin - Pitch Type')
-
-# number of strikes
-g = sns.relplot(x='mph', y='spin_rate', hue='pitch_type', col='s', row='b',
-                data=df, s=25)
-
-g.set(ylim=(0, 3500), xlim=(65,105))
-g.fig.subplots_adjust(top=0.9)
-g.fig.suptitle('Pitch Speed vs Spin - Pitch Type')
-
-# correlation
-df[['spin_rate', 'mph', 'end_speed', 's']].corr()
-
-# scatter plot of 0.54 correlation
-g = sns.relplot(x='mph', y='spin_rate', data=df)
-
-# scatter plot of 0.98 correlation
-g = sns.relplot(x='mph', y='end_speed', data=df)
-
-########################
-# line plots with python
-########################
-
-# speed by inning
-g = sns.relplot(x='i', y='mph', kind='line', hue='pitch_type',
-                data=df.query("i <=9"))
-
-df.loc[(df['pitch_type'] == 'CU') & (df['i'] == 2),
-       ['pitcher', 'batter', 'i', 'pitch_type', 'mph']].sample(5)
-
-# max points by week and position
-max_speed_by_pitch_type_i = (df
-                             .query("i <=9")
-                             .groupby(['pitch_type', 'i'], as_index=False)
-                             ['mph'].max())
-
-g = sns.relplot(x='i', y='mph', kind='line', hue='pitch_type',
-                data=max_speed_by_pitch_type_i)
-
-# speed by player and week
-top20_pitchers = df['pitcher'].value_counts().head(20).reset_index()
-top20_pitchers.columns = ['pitcher', 'n']
-
-g = sns.relplot(x='i', y='mph', kind='line', hue='pitch_type', col='pitcher',
-                col_wrap=4, height=2, data=pd.merge(df.query("i <=9"),
-                                                    top20_pitchers))
