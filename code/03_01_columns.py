@@ -1,4 +1,5 @@
 import pandas as pd
+from pandas import DataFrame, Series
 from os import path
 
 # change this to the directory where the csv files that come with the book are
