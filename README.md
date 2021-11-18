@@ -21,6 +21,10 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.6.0 (2021-11-18)
+Add end of chapter exercises for scraping and visualization (more coming soon).
+Thanks Chris!
+
 ### v0.5.0 (2021-06-22)
 Expanded visualization section to include scatter and line plots.
 
