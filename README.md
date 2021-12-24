@@ -21,6 +21,9 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.6.1 (2021-12-24)
+Updated file path in random forest section (see issue [#1][i1])
+
 ### v0.6.0 (2021-11-18)
 Add end of chapter exercises for scraping and visualization (more coming soon).
 Thanks Chris!
@@ -57,3 +60,5 @@ that I might discuss in a future update.
 
 ### v0.3.0
 Add this changelog, bundle files in an github release vs including with SendOwl.
+
+[i1]: https://github.com/nathanbraun/ltcwbb-files/issues/1
