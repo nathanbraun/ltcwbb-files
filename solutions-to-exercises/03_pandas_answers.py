@@ -268,6 +268,14 @@ dfb['is_double'] = dfb['event'] == 'Double'
 # d
 (dfb.groupby(['g_id', 'batter_id'])['homerun'].sum() >= 2).mean()
 
+hr_per_game = dfb.groupby(['g_id', 'batter_id'], as_index=False)['homerun'].sum()
+hr_per_game['two_or_more_hr'] = hr_per_game['homerun'] >= 2
+hr_per_game.groupby('batter_id')['two_or_more_hr'].any().mean()
+
+(dfb
+.groupby(['g_id', 'batter_id'], as_index=False)['homerun'].sum()
+.groupby('batter_id', as_index=False)['homerun'].max() >= 2).mean()
+
 #######
 # 3.4.3
 #######

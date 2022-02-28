@@ -32,6 +32,7 @@ tr_tag
 type(tr_tag)
 
 table_tag = html_soup.find('table')
+table_tag
 type(table_tag)
 
 td_tag = html_soup.find('td')
