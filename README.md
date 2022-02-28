@@ -22,7 +22,7 @@ Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
 ### v0.7.0 (2022-02-28)
-Pretty big update to scraping section to make things more clearer.
+Pretty big update to scraping section to make things clearer.
 
 Also added note on 403 response issue people were running into while scraping
 Baseball Almanac. Thanks to everyone who emailed me about this.
