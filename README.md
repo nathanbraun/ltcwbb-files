@@ -21,6 +21,12 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.7.0 (2022-02-28)
+Pretty big update to scraping section to make things more clearer.
+
+Also added note on 403 response issue people were running into while scraping
+Baseball Almanac. Thanks to everyone who emailed me about this.
+
 ### v0.6.1 (2021-12-24)
 Updated file path in random forest section (see issue [#1][i1])
 
