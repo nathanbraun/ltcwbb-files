@@ -4,8 +4,8 @@ import numpy as np
 from os import path
 import statsmodels.formula.api as smf
 
-DATA100 = '/Users/nathan/baseball-book/data/100-game-sample/'
-DATA18 = '/Users/nathan/baseball-book/data/2018-season/'
+DATA100 = './data/100-game-sample/'
+DATA18 = './data/2018-season/'
 
 dfp = pd.read_csv(path.join(DATA100, 'pitches_w_inplay_nb.csv'))
 dfb = pd.read_csv(path.join(DATA100, 'atbats.csv'))
@@ -56,11 +56,11 @@ dfb[['event', 'hit_cat']].head()
 
 pd.get_dummies(dfb['hit_cat']).head()
 
-model = smf.ols(formula="runs ~ C(hit_cat) + out", data=dfb)
+model = smf.ols(formula="runs ~ C(hit_cat)", data=dfb)
 results = model.fit()
 results.summary2()
 
-model = smf.ols(formula="runs ~ C(hit_cat, Treatment(reference='Not a hit')) + out", data=dfb)
+model = smf.ols(formula="runs ~ C(hit_cat, Treatment(reference='Not a hit'))", data=dfb)
 results = model.fit()
 results.summary2()
 

@@ -21,6 +21,10 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.8.1 (2022-07-28)
+Updated Anki cards, tweaked some Python language and fixed a typo (thanks
+Aaron!)
+
 ### v0.7.1 (2022-02-28)
 Added a note explaning *granularity* in the main text, before asking any end of
 chapter exercises on it (see issue [#2][i2])

@@ -6,11 +6,14 @@ from os import path
 # on Windows it might be something like 'C:/mydir'
 
 DATA_DIR = '/Users/nathan/baseball-book/data'
+DATA_DIR = './data'
 
 pg = pd.read_csv(
     path.join(DATA_DIR, '100-game-sample', 'game-player.csv'))  # player-game
 games = pd.read_csv(
     path.join(DATA_DIR, '100-game-sample', 'games.csv'))  # game info
+players = pd.read_csv(
+    path.join(DATA_DIR, '100-game-sample', 'players.csv'))  # game info
 
 # things to care about while merging:
 # 1. The columns you're joining on.
@@ -29,9 +32,17 @@ games['g_id'].duplicated().any()
 
 pg['g_id'].duplicated().any()
 
-pd.merge(combined, games[['g_id', 'attendance', 'venue_name']]).head()
+player_names = players.rename(columns={'id': 'batter_id'})[['batter_id',
+    'first_name', 'last_name']]
+player_names.head(5)
 
-# pd.merge(combined, games, validate='1:1')  # this will fail since it's 1:m
+player_names['batter_id'].duplicated().any()
+
+pg['batter_id'].duplicated().any()
+
+pd.merge(combined, player_names).head()
+
+# pd.merge(combined, player_names, validate='1:1')  # this will fail since it's 1:m
 
 # 3. What you do with unmatched observations
 st = pd.read_csv(path.join(DATA_DIR, '2018-season', 'teams.csv'))  # player-game
@@ -53,6 +64,8 @@ comb_inner.shape
 comb_left = pd.merge(top_hr, top_so, how='left')
 comb_left.shape
 
+comb_left.head(10)
+
 comb_outer = pd.merge(top_hr, top_so, how='outer', indicator=True)
 comb_outer.shape
 
@@ -62,19 +75,17 @@ comb_outer['_merge'].value_counts()
 
 hit_df.head()
 
-players = pd.read_csv(path.join(DATA_DIR, '100-game-sample', 'players.csv'))
 players.head()
 
 # left_on and right_on
 pd.merge(hit_df, players, left_on='batter_id', right_on='id').sample(5)
 
-max_hit_df = hit_df.groupby('batter_id')['hit', 'homerun'].max()
+max_hit_df = (hit_df
+              .groupby('batter_id')
+              .agg(max_hits = ('hit', 'max'),
+                   max_hrs = ('homerun', 'max')))
 
 max_hit_df.head()
-
-max_hit_df.columns = [f'max_{x}' for x in max_hit_df.columns]
-
-max_hit_df.columns
 
 pd.merge(hit_df, max_hit_df, left_on='batter_id', right_index=True).sample(5)
 
@@ -93,6 +104,7 @@ top_so = (st[['teamID', 'SO']]
           .head(20)
           .set_index('teamID'))
 
+top_hr.head()
 pd.concat([top_hr, top_so], axis=1).sort_index().head()
 
 top_bb = (st[['teamID', 'BB']]
@@ -102,6 +114,7 @@ top_bb = (st[['teamID', 'BB']]
 
 pd.concat([top_hr, top_so, top_bb], axis=1).sort_index().head()
 
+st.set_index('teamID', inplace=True)
 al_teams = st.query("lgID == 'AL'")
 nl_teams = st.query("lgID == 'NL'")
 
@@ -109,3 +122,12 @@ al_teams.shape
 nl_teams.shape
 
 pd.concat([al_teams, nl_teams]).shape
+
+al_reset = al_teams.reset_index()
+nl_reset = nl_teams.reset_index()
+
+al_reset.head()
+
+pd.concat([al_reset, nl_reset]).sort_index().head()
+
+pd.concat([al_reset, nl_reset], ignore_index=True).sort_index().head()

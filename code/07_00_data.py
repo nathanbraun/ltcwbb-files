@@ -1,7 +1,7 @@
 import pandas as pd
 from os import path
 
-DATA100 = '/Users/nathan/baseball-book/data/100-game-sample/'
+DATA100 = './data/100-game-sample/'
 
 dfp = pd.read_csv(path.join(DATA100, 'pitches.csv'))
 dfb = pd.read_csv(path.join(DATA100, 'atbats.csv'))
@@ -14,54 +14,45 @@ dfp['mph'].describe()
 dfp['mph2'] = dfp['mph'] ** 2
 dfp[['mph', 'mph2']].head()
 
-# error: exponent is **, not ^
-# dfp['mph2'] = dfp['mph'] ^ 2
-
-dfp[['mph', 'mph2']].head()
-
-dfb['event'].value_counts().head(15)
-
-dfb['event'].unique()
-
-events_not_in_play = ['strikeout', 'walk', 'hit by pitch', 'intent walk',
-                      'bunt groundout', 'strikeout - dp', 'bunt pop out',
-                      'batter interference']
-
-dfb['inplay'] = (~dfb['event']
-                 .apply(lambda x: x.lower() in events_not_in_play))
-
-dfb['inplay'].mean()
-
-dfb['ab_id'].duplicated().any()
-dfp[['ab_id', 'pitch_num']].duplicated().any()
-
-dfp[['ab_id', 'pitch_num', 'mph']].head()
-
-dfb.query("ab_id == 2018003856")[['event', 'inplay']]
+dfp[['ab_id', 'pitch_num', 'mph']].head(12)
 
 last_pitch_ab = (dfp
-                 .groupby('ab_id')['pitch_num'].max()
+                 .groupby('ab_id')
+                 .agg(last_pitch_num = ('pitch_num', 'max'))
                  .reset_index())
+
+# above: using agg to pick out names during groupby
+# alternative way: use groupby, then rename
+
+# last_pitch_ab = (dfp
+#                  .groupby('ab_id')['pitch_num'].max()
+#                  .reset_index()
+#                  .rename(columns={'pitch_num': 'last_pitch_num'}))
+
 last_pitch_ab.head()
 
-# this works, but we'll do it a safer way:
-# dfb = pd.merge(dfb, last_pitch_ab)
+dfp = pd.merge(dfp, last_pitch_ab, how='left')
 
-dfb = pd.merge(dfb, last_pitch_ab,
-               validate='1:1', how='outer', indicator=True)
-assert (dfb['_merge'] == 'both').all()
-dfb.drop('_merge', axis=1, inplace=True)
+dfp[['ab_id', 'pitch_num', 'mph', 'last_pitch_num']].head(12)
 
-dfb[['ab_id', 'pitch_num', 'event', 'inplay']].head()
+dfp['is_last_pitch'] = dfp['pitch_num'] == dfp['last_pitch_num']
 
-dfp = pd.merge(dfp, dfb[['ab_id', 'pitch_num', 'event', 'inplay']], how='left',
-               indicator=True)
+dfp[['ab_id', 'pitch_num', 'mph', 'last_pitch_num', 'is_last_pitch']].head(5)
 
-dfp[['ab_id', 'pitch_num', 'inplay', '_merge']].head()
+events_not_in_play = ['strikeout', 'walk', 'hit by pitch', 'intent walk',
+                      'strikeout - dp', 'batter interference']
 
-dfp['inplay'] = dfp['inplay'].fillna(False)
+dfb['atbat_inplay'] = (~dfb['event']
+        .apply(lambda x: x.lower() in events_not_in_play))
 
-dfp[['inplay', 'mph', 'mph2', '_merge']].head()
+dfb['atbat_inplay'].mean()
+
+dfp = pd.merge(dfp, dfb[['ab_id', 'atbat_inplay']])
+dfp[['ab_id', 'pitch_num', 'mph', 'is_last_pitch', 'atbat_inplay']].head()
+
+dfp['inplay'] = dfp['is_last_pitch'] & dfp['atbat_inplay']
+
+dfp[['inplay', 'mph', 'mph2']].head()
 
 dfp['inplay'] = dfp['inplay'].astype(int)
 

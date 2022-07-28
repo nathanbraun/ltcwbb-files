@@ -107,6 +107,7 @@ roster_dict = {'P': 'clayton kershaw',
 
 roster_dict['RF']
 roster_dict['1B'] = 'max muncy'
+roster_dict
 
 pos = 'RF'
 roster_dict[pos]
@@ -166,9 +167,21 @@ type([x.title() for x in roster_list])
 roster_last_names = [full_name.split(' ')[1] for full_name in roster_list]
 roster_last_names
 
+full_name = 'clayton kershaw'
+full_name.split(' ')
+full_name.split(' ')[1]
+
 roster_c_only = [
-    x.title() for x in roster_list if x.startswith('c')]
+    x for x in roster_list if x.startswith('c')]
 roster_c_only
+
+'clayton kershaw'.startswith('c')
+'mookie betts'.startswith('c')
+'cody bellinger'.startswith('c')
+
+roster_c_only_title = [
+    x.title() for x in roster_list if x.startswith('c')]
+roster_c_only_title
 
 # dicts
 salary_per_player = {
@@ -194,52 +207,57 @@ strikes_needed
 4 + len(['clayton kershaw', 'mookie betts', 'cody bellinger'])
 
 # defining your own functions
-def hr_sweetspot(launch_angle, exit_velocity):
+# (Hits + Walks + Hit by Pitch) / (At Bats + Walks + Hit by Pitch + Sacrifice Flies).
+def obp(atbats, hits, walks, hit_by_pitch, sac_flies):
     """
     multi line strings in python are between three double quotes
 
     it's not required, but the convention is to put what the fn does in one of
     these multi line strings (called "docstring") right away in function
 
-    when you type hr_sweetspot? in the REPL, it shows this docstring
+    when you type obp? in the REPL, it shows this docstring
 
-    this function takes launch angle, exit velocity and returns a bool
-    indicating whether hit is in the sweet spot for home runs
+    this function takes number of hits, walks, atbats, hit by pitch and
+    sacrifice flies and returns on base percentage
     """
-    return (25 <= launch_angle <= 35) and (exit_velocity >= 95)
+    return (hits + walks + hit_by_pitch)/(atbats + walks + hit_by_pitch +
+            sac_flies)
 
-# print(launch_angle)  # commented out since it shows an error
+obp(5, 1, 2, 0, 0)
+# print(atbats)  # commented out since it shows an error
 
-def noisy_hr_sweetspot(launch_angle, exit_velocity):
+def noisy_obp(atbats, hits, walks, hit_by_pitch, sac_flies):
     """
-    this function takes launch angle, exit velocity and returns a bool
-    indicating whether hit is in the sweet spot for home runs
+    this function takes number of hits, walks, atbats, hit by pitch and
+    sacrifice flies and returns on base percentage
 
-    it also prints launch_angle
+    it also prints out atbats
     """
-    print(launch_angle)
-    return (25 <= launch_angle <= 35) and (exit_velocity >= 95)
+    print(atbats)
+    return (hits + walks + hit_by_pitch)/(atbats + walks + hit_by_pitch +
+            sac_flies)
 
-hr_sweetspot(30, 98)
-noisy_hr_sweetspot(29, 92)
+noisy_obp(5, 1, 2, 0, 0)
 
-# hr_sweetspot(92)  # commented out since it's an error
+# obp(5, 1, 2)  # commented out with error
 
-def hr_sweetspot_wdefault(launch_angle=14, exit_velocity=68):
+def obp_wdefault(atbats, hits=0, walks=0, hit_by_pitch=0, sac_flies=0):
     """
-    this function takes launch angle, exit velocity and returns a bool
-    indicating whether hit is in the sweet spot for home runs
-
-    if a value for launch angle or exit velocity is not entered, it'll default
-    to the league averages for 2019
+    this function takes number of hits, walks, atbats, hit by pitch and
+    sacrifice flies and returns on base percentage
     """
-    return (25 <= launch_angle <= 35) and (exit_velocity >= 95)
+    return (hits + walks + hit_by_pitch)/(atbats + walks + hit_by_pitch +
+            sac_flies)
 
+obp_wdefault(5, 1, 2)
+# obp_wdefault()  # commented out since error
 
-hr_sweetspot_wdefault(launch_angle=30)
-hr_sweetspot_wdefault(31, 112)
-hr_sweetspot_wdefault(31)
-hr_sweetspot_wdefault(exit_velocity=115)
+obp(5, 1, 2, 0, 0)
+obp?
+
+obp(hits=1, walks=2, atbats=5, hit_by_pitch=0, sac_flies=0)
+
+obp_wdefault(5, hits=1, walks=2)
 
 # functions can take other functions
 

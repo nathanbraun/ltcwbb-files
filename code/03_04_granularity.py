@@ -5,7 +5,8 @@ from os import path
 # stored
 # on Windows it might be something like 'C:/mydir'
 
-DATA_DIR = '/Users/nathan/baseball-book/data'
+# DATA_DIR = '/Users/nathan/baseball-book/data'
+DATA_DIR = './data'
 
 atbats = pd.read_csv(path.join(DATA_DIR, '100-game-sample', 'atbats.csv'))
 
@@ -49,6 +50,7 @@ ti_reshaped = ti.set_index(['batter_team', 'inning']).unstack()
 ti_reshaped.head()
 
 total_hits = ti_reshaped.sum(axis=1)
+ti_reshaped.max()
 total_hits.head()
 
 ti_reshaped.stack().head()

@@ -1,9 +1,11 @@
 import pandas as pd
+import numpy as np
 import statsmodels.formula.api as smf
 from os import path
 
 # change this to your data directory
-DATA100 = '/Users/nathan/baseball-book/data/100-game-sample/'
+# DATA100 = '/Users/nathan/baseball-book/data/100-game-sample/'
+DATA100 = './data/100-game-sample/'
 
 # this (*_nb) is a version that i made; if you saved your own version feel free
 # to remove and use that
@@ -12,7 +14,6 @@ dfb = pd.read_csv(path.join(DATA100, 'atbats.csv'))
 
 # book picks up here
 
-# first OLS
 model = smf.ols(formula='inplay ~ mph + mph2', data=dfp)
 results = model.fit()
 results.summary2()
