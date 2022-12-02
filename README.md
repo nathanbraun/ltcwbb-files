@@ -21,6 +21,9 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.8.2 (2022-07-28)
+Minor rewording.
+
 ### v0.8.1 (2022-07-28)
 Updated Anki cards, tweaked some Python language and fixed a typo (thanks
 Aaron!)
