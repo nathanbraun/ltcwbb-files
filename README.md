@@ -21,7 +21,7 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
-### v0.9.0 (2022-13)
+### v0.9.0 (2022-12-13)
 Rewrote and expanded API chapter since old API stopped working (see issue
 [#3][i3] - thanks @lozdog245 for brining to my attention). Also added section on using the excellent [MLB-StatsAPI](
 [https://github.com/toddrob99/MLB-StatsAPI](https://github.com/toddrob99/MLB-StatsAPI)) package. 
