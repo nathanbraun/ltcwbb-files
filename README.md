@@ -84,3 +84,5 @@ that I might discuss in a future update.
 Add this changelog, bundle files in an github release vs including with SendOwl.
 
 [i1]: https://github.com/nathanbraun/ltcwbb-files/issues/1
+[i2]: https://github.com/nathanbraun/ltcwbb-files/issues/2
+[i3]: https://github.com/nathanbraun/ltcwbb-files/issues/3
