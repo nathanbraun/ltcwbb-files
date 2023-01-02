@@ -140,16 +140,3 @@ batting_df = DataFrame([stats_by_player(x, 'batting') for x in
 batting_df[['player_id', 'gamesPlayed', 'runs', 'doubles', 'triples',
     'homeRuns', 'strikeOuts', 'hits', 'avg', 'atBats', 'obp', 'slg', 'ops']]
 
-roster_by_team
-print(standings)
-
-foo = statsapi.ENDPOINTS
-
-statsapi.schedule?
-statsapi
-
-print(statsapi.notes('attendance'))
-
-statsapi.lookup_team('MIL')
-
-statsapi.ENDPOINTS

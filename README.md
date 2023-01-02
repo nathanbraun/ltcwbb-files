@@ -21,6 +21,9 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.9.1 (2022-01-01)
+Fixed some formatting and footnote typos (thanks Paul!).
+
 ### v0.9.0 (2022-12-13)
 Rewrote and expanded API chapter since old API stopped working (see issue
 [#3][i3] - thanks @lozdog245 for brining to my attention). Also added section on using the excellent [MLB-StatsAPI](
