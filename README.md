@@ -21,7 +21,7 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
-### v0.9.1 (2022-01-01)
+### v0.9.1 (2023-01-01)
 Fixed some formatting and footnote typos (thanks Paul!).
 
 ### v0.9.0 (2022-12-13)
