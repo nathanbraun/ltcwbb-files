@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split, cross_val_score
 from os import path
 
-DATA100 = '/Users/nathan/baseball-book/data/100-game-sample/'
+DATA100 = './data/100-game-sample/'
 
 dfp = (pd.read_csv(path.join(DATA100, 'pitches.csv'))
        .query("pitch_type.notnull() & pitch_type not in ('FO', 'PO')"))
