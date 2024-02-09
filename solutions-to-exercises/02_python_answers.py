@@ -13,10 +13,10 @@ throwaway or temporary, short term variables.
 b) Valid.
 c) Not valid. Can't start with a number.
 d) Valid, though convention is to split words with _, not camelCase.
-e) `rb1_name`. Valid. Numbers OK as long as they're not in the first spot
-f) `flex spot name`. Not valid. No spaces
+e) `strike3`. Valid. Numbers OK as long as they're not in the first spot
+f) `starting pitcher`. Not valid. No spaces
 g) `@home_or_away`. Not valid. Only non alphnumeric character allowed is `_`
-h) `'pts_per_rec_yd'`. Not valid. A string (wrapped in quotes), not a
+h) `'value_over_replacement'`. Not valid. A string (wrapped in quotes), not a
 variable name. Again, only non alphnumeric character allowed is `_`
 """
 
