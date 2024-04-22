@@ -5,11 +5,11 @@ from os import path
 # stored
 # on Windows it might be something like 'C:/mydir'
 
-DATA_DIR = '/Users/nathan/baseball-book/data'
+DATA_DIR = './data'
 
 atbats = pd.read_csv(path.join(DATA_DIR, '2018-season', 'atbats.csv'))
 
-atbats.mean()
+atbats[['G', 'AB', 'R', 'H', '2B', '3B', 'HR', 'RBI']].mean()
 atbats.max()
 
 # Axis
