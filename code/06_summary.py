@@ -63,7 +63,7 @@ games = pd.read_csv(path.join(DATA_DIR, '100-game-sample', 'games.csv'))
 games[['home_team', 'away_team', 'home_final_score', 'away_final_score']].head()
 
 def home_away_df(_df, location):
-    _df = _df[['date', f'{location}_team', f'{location}_final_score']]
+    _df = _df[['date', f'{location}_team', f'{location}_final_score']].copy()
     _df.columns = ['date', 'team', 'final_score']
     _df['location'] = location
     return _df
@@ -152,8 +152,8 @@ g = sns.displot(df, kind='kde', x='mph', hue='s', col='pitch_type')
 g = sns.displot(df, kind='kde', x='mph', hue='s', col='pitch_type', col_wrap=2)
 
 # adding a title
-g.fig.subplots_adjust(top=0.9) # adding a title
-g.fig.suptitle('Distribution of Pitch Speeds by Type, Strikes')
+g.figure.subplots_adjust(top=0.9) # adding a title
+g.figure.suptitle('Distribution of Pitch Speeds by Type, Strikes')
 
 # modifying the axes
 g.set(xlim=(65, 105))
