@@ -21,6 +21,9 @@ If I were using Windows, it might look like this:
 Set these aside for now and we'll pick them up in chapter 2.
 
 ## Changelog
+### v0.11.2 (2025-02-28)
+Added Spyder instructions for Intel Macs.
+
 ### v0.11.0 (2024-12-06)
 Updated instructions for installing Python (now recc Spyder directly vs via
 Anaconda). Also cover a few other options.
